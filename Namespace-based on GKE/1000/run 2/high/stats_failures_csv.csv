@@ -1,0 +1,584 @@
+Method,Name,Error,Occurrences
+PUT,/wishlist/wishlist/87570a8f-d38a-4a00-a5aa-e667937d99fc,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/87570a8f-d38a-4a00-a5aa-e667937d99fc'),1
+DELETE,/wishlist/wishlist/6ae0d533-44a9-42a0-9e4c-aecf505782a1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6ae0d533-44a9-42a0-9e4c-aecf505782a1'),1
+GET,/wishlist/wishlist/d321f9eb-7bef-4bdb-ad76-917c81ee7482,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d321f9eb-7bef-4bdb-ad76-917c81ee7482'),1
+GET,/wishlist/wishlist/1b6fdc0c-8224-4886-9605-6aded3af67f8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1b6fdc0c-8224-4886-9605-6aded3af67f8'),1
+DELETE,/wishlist/wishlist/3c84f503-1d76-4bae-811f-0f32a70ac304,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3c84f503-1d76-4bae-811f-0f32a70ac304'),1
+GET,/wishlist/wishlist/b1c20bb3-12dd-46a6-b17f-a605cec93cb5,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/b1c20bb3-12dd-46a6-b17f-a605cec93cb5'),1
+GET,/wishlist/wishlist/d2b62acc-a06d-461f-9be2-2c4439d7437a,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/d2b62acc-a06d-461f-9be2-2c4439d7437a'),1
+GET,/wishlist/wishlist/0a303275-5520-4ab6-9e77-c925c6ae9b1a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0a303275-5520-4ab6-9e77-c925c6ae9b1a'),1
+PUT,/wishlist/wishlist/7910928f-a1b2-4349-9696-548160a00859,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/7910928f-a1b2-4349-9696-548160a00859'),1
+PUT,/wishlist/wishlist/3aa6410d-0797-4f4d-8984-5768c80ad8fb,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3aa6410d-0797-4f4d-8984-5768c80ad8fb'),1
+GET,/wishlist/wishlist/8e2d3955-4cc1-41da-9b46-b103789f3303,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/8e2d3955-4cc1-41da-9b46-b103789f3303'),1
+DELETE,/wishlist/wishlist/f142d757-d92d-4e4b-8e1d-6df6bf1740ac,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f142d757-d92d-4e4b-8e1d-6df6bf1740ac'),1
+DELETE,/wishlist/wishlist/86727280-32c8-4688-b0ff-591a85c65889,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/86727280-32c8-4688-b0ff-591a85c65889'),1
+GET,/wishlist/wishlist/59286b01-ba8d-46ee-9ba4-d8da6dee9858,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/59286b01-ba8d-46ee-9ba4-d8da6dee9858'),1
+POST,/wishlist/wishlist/add,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/add'),40
+POST,/wishlist/wishlist,HTTPError('502 Server Error: Bad Gateway for url: /wishlist/wishlist'),1
+DELETE,/wishlist/wishlist/84ba9aa3-72cf-4229-8d45-0a53a592a489,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/84ba9aa3-72cf-4229-8d45-0a53a592a489'),1
+PUT,/wishlist/wishlist/746840e7-26a5-425e-a354-d54fc64f0797,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/746840e7-26a5-425e-a354-d54fc64f0797'),1
+DELETE,/wishlist/wishlist/5e453770-db41-404a-b886-8d404d114367,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5e453770-db41-404a-b886-8d404d114367'),1
+PUT,/wishlist/wishlist/5f4e70ff-bfa1-4bb1-963e-92c2af98dcaa,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5f4e70ff-bfa1-4bb1-963e-92c2af98dcaa'),1
+DELETE,/wishlist/wishlist/b7cc8a8e-8cb4-4438-bcca-955e9bab32d8,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b7cc8a8e-8cb4-4438-bcca-955e9bab32d8'),1
+DELETE,/wishlist/wishlist/409f4b0c-8e34-47e5-9e1d-97981037d4c3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/409f4b0c-8e34-47e5-9e1d-97981037d4c3'),1
+DELETE,/wishlist/wishlist/9fb11f8c-9cb0-430d-908d-10fd4a45b7ac,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/9fb11f8c-9cb0-430d-908d-10fd4a45b7ac'),1
+GET,/wishlist/wishlist/979c6321-13da-4bd8-9cd4-a6edf6714196,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/979c6321-13da-4bd8-9cd4-a6edf6714196'),1
+PUT,/wishlist/wishlist/dc5d64e8-511f-4faf-8872-cf528d30b522,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/dc5d64e8-511f-4faf-8872-cf528d30b522'),1
+DELETE,/wishlist/wishlist/ef1a2633-0340-4844-a34c-d91ddd0adb27,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ef1a2633-0340-4844-a34c-d91ddd0adb27'),1
+DELETE,/wishlist/wishlist/f9e3500f-12b9-4658-8b0e-5f163f298d5d,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f9e3500f-12b9-4658-8b0e-5f163f298d5d'),1
+DELETE,/wishlist/wishlist/a97fb26d-0736-49d2-a60b-f709b142fd8f,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a97fb26d-0736-49d2-a60b-f709b142fd8f'),1
+GET,/wishlist/wishlist/0e0e4c6f-e6a2-41c2-94a6-bf46f78a48c1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0e0e4c6f-e6a2-41c2-94a6-bf46f78a48c1'),1
+PUT,/wishlist/wishlist/37d2ca77-944b-4afe-a490-377c0daf8788,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/37d2ca77-944b-4afe-a490-377c0daf8788'),1
+GET,/wishlist/wishlist/ecb7e60e-0555-4880-bf5c-321b42988263,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ecb7e60e-0555-4880-bf5c-321b42988263'),1
+GET,/wishlist/wishlist/b0d8d8f8-a0b0-4a0f-b75c-9b3117068916,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/b0d8d8f8-a0b0-4a0f-b75c-9b3117068916'),1
+PUT,/wishlist/wishlist/0a36a387-8ab4-410c-a4f2-d26221bc2f2e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0a36a387-8ab4-410c-a4f2-d26221bc2f2e'),1
+DELETE,/wishlist/wishlist/fb45719b-3e5a-41dc-b40a-f45e6b887981,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/fb45719b-3e5a-41dc-b40a-f45e6b887981'),1
+GET,/wishlist/wishlist/7f05e972-ac29-4368-b62e-7f67e0958285,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/7f05e972-ac29-4368-b62e-7f67e0958285'),1
+DELETE,/wishlist/wishlist/36b6b509-ef9e-4e1f-864f-c6947b890950,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/36b6b509-ef9e-4e1f-864f-c6947b890950'),1
+PUT,/wishlist/wishlist/6cb99036-e333-4322-b70c-4a03b4ed829e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6cb99036-e333-4322-b70c-4a03b4ed829e'),1
+PUT,/wishlist/wishlist/bdb11bd5-7fe0-424f-add8-7a8cc8303b24,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/bdb11bd5-7fe0-424f-add8-7a8cc8303b24'),1
+GET,/wishlist/wishlist/841d412c-2f82-45af-923c-3414730622b3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/841d412c-2f82-45af-923c-3414730622b3'),1
+DELETE,/wishlist/wishlist/a6cbe4ae-b5cf-4c5e-ba0c-f4025fba53c6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a6cbe4ae-b5cf-4c5e-ba0c-f4025fba53c6'),1
+DELETE,/wishlist/wishlist/78dadaa6-de2e-47fb-b7c4-baf513be6d01,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/78dadaa6-de2e-47fb-b7c4-baf513be6d01'),1
+GET,/wishlist/wishlist/4f57282a-50b5-4f64-b6dd-d24b222247ca,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/4f57282a-50b5-4f64-b6dd-d24b222247ca'),1
+GET,/wishlist/wishlist/ec0ba876-7042-42d6-bb49-edfebba78c94,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ec0ba876-7042-42d6-bb49-edfebba78c94'),1
+GET,/wishlist/wishlist/76271503-ad86-4acb-a0aa-2c476bab8d8d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/76271503-ad86-4acb-a0aa-2c476bab8d8d'),1
+GET,/wishlist/wishlist/b7cc8a8e-8cb4-4438-bcca-955e9bab32d8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b7cc8a8e-8cb4-4438-bcca-955e9bab32d8'),1
+DELETE,/wishlist/wishlist/40512d44-4d05-4798-91ad-82046a1b2047,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/40512d44-4d05-4798-91ad-82046a1b2047'),1
+PUT,/wishlist/wishlist/50f5d58d-70cd-4a52-a743-d7e8b96ee903,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/50f5d58d-70cd-4a52-a743-d7e8b96ee903'),1
+DELETE,/wishlist/wishlist/4704addb-4fb4-4ea8-92db-9f99e5556fa4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/4704addb-4fb4-4ea8-92db-9f99e5556fa4'),1
+DELETE,/wishlist/wishlist/a30efdf5-79ec-43c7-b99a-25eaacbea821,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a30efdf5-79ec-43c7-b99a-25eaacbea821'),1
+GET,/wishlist/wishlist/3ddc63c6-ced5-4030-9af8-f03d9985ab85,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3ddc63c6-ced5-4030-9af8-f03d9985ab85'),1
+DELETE,/wishlist/wishlist/e0e0e4ac-5099-4910-a037-9e2ff943ac3b,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e0e0e4ac-5099-4910-a037-9e2ff943ac3b'),1
+PUT,/wishlist/wishlist/99c21d77-8e31-4e33-80b4-b236c53d5d4d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/99c21d77-8e31-4e33-80b4-b236c53d5d4d'),1
+PUT,/wishlist/wishlist/d2b62acc-a06d-461f-9be2-2c4439d7437a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d2b62acc-a06d-461f-9be2-2c4439d7437a'),1
+GET,/wishlist/wishlist/161813e9-a766-4c73-8577-ad649c2b70d1,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/161813e9-a766-4c73-8577-ad649c2b70d1'),1
+DELETE,/wishlist/wishlist/ec0ba876-7042-42d6-bb49-edfebba78c94,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ec0ba876-7042-42d6-bb49-edfebba78c94'),1
+GET,/wishlist/wishlist/1f417913-87f0-404f-9a87-a14073318ca3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1f417913-87f0-404f-9a87-a14073318ca3'),1
+DELETE,/wishlist/wishlist/44338ec0-e455-4149-80b5-4e5955844e11,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/44338ec0-e455-4149-80b5-4e5955844e11'),1
+GET,/wishlist/wishlist/bdb11bd5-7fe0-424f-add8-7a8cc8303b24,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/bdb11bd5-7fe0-424f-add8-7a8cc8303b24'),1
+PUT,/wishlist/wishlist/83292ce4-6c6b-415a-8fab-6ea810e7b2cf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/83292ce4-6c6b-415a-8fab-6ea810e7b2cf'),1
+GET,/wishlist/wishlist/f142d757-d92d-4e4b-8e1d-6df6bf1740ac,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f142d757-d92d-4e4b-8e1d-6df6bf1740ac'),1
+DELETE,/wishlist/wishlist/6492aff3-e174-4740-81c7-98721d54e781,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6492aff3-e174-4740-81c7-98721d54e781'),1
+DELETE,/wishlist/wishlist/f78e7614-7587-409f-9815-3d4d04a51bb6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f78e7614-7587-409f-9815-3d4d04a51bb6'),1
+DELETE,/wishlist/wishlist/2d0680b2-bca1-444e-8212-63293479604e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2d0680b2-bca1-444e-8212-63293479604e'),1
+PUT,/wishlist/wishlist/0d96bfeb-f146-4d6c-86a1-e6b76ecd957b,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0d96bfeb-f146-4d6c-86a1-e6b76ecd957b'),1
+GET,/wishlist/wishlist/19e06c1f-9acb-42c9-a508-4f6504d66246,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/19e06c1f-9acb-42c9-a508-4f6504d66246'),1
+DELETE,/wishlist/wishlist/f8ea3147-473d-493a-a0ab-b34d9891ef92,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f8ea3147-473d-493a-a0ab-b34d9891ef92'),1
+PUT,/wishlist/wishlist/bdc7e001-6a13-4427-8460-ef3bb14b6496,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/bdc7e001-6a13-4427-8460-ef3bb14b6496'),1
+GET,/wishlist/wishlist/db1bace3-13ca-4627-96f1-cb2ca62f09eb,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/db1bace3-13ca-4627-96f1-cb2ca62f09eb'),1
+DELETE,/wishlist/wishlist/84caa486-30e8-47c7-8271-98c90e215d00,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/84caa486-30e8-47c7-8271-98c90e215d00'),1
+DELETE,/wishlist/wishlist/4b50b3d4-1968-47ff-87a2-e992420c6f7a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/4b50b3d4-1968-47ff-87a2-e992420c6f7a'),1
+GET,/wishlist/wishlist/74b28f82-fba2-4cd0-982a-42239d555eff,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/74b28f82-fba2-4cd0-982a-42239d555eff'),1
+GET,/wishlist/wishlist/c78853b3-1c9d-49a1-aae7-10e414a08779,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c78853b3-1c9d-49a1-aae7-10e414a08779'),1
+GET,/wishlist/wishlist/c3b5148d-a169-4300-b65e-a3e8ee2d3d95,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/c3b5148d-a169-4300-b65e-a3e8ee2d3d95'),1
+GET,/wishlist/wishlist/b9a30112-fecd-470c-9ebc-10b20ea46fc1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b9a30112-fecd-470c-9ebc-10b20ea46fc1'),1
+GET,/wishlist/wishlist/62b8e8d2-8155-4234-b828-8cfbac2338e9,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/62b8e8d2-8155-4234-b828-8cfbac2338e9'),1
+DELETE,/wishlist/wishlist/6c4bfc39-ebb6-48ca-8371-e9bc048ad7d1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6c4bfc39-ebb6-48ca-8371-e9bc048ad7d1'),1
+PUT,/wishlist/wishlist/2116c721-1746-4ce4-b0a6-45c9e84bac06,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2116c721-1746-4ce4-b0a6-45c9e84bac06'),1
+DELETE,/wishlist/wishlist/ec4d49d8-c262-4bad-b60c-ae676a4b6c97,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ec4d49d8-c262-4bad-b60c-ae676a4b6c97'),1
+DELETE,/wishlist/wishlist/8a2acb30-641f-4f63-8d49-fb2c6eb4ee8e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8a2acb30-641f-4f63-8d49-fb2c6eb4ee8e'),1
+GET,/wishlist/wishlist/d5acc195-f586-4445-ae44-85b3ab8b8102,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/d5acc195-f586-4445-ae44-85b3ab8b8102'),1
+GET,/wishlist/wishlist/5c6bd184-4756-43ed-b5ee-710993af9366,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5c6bd184-4756-43ed-b5ee-710993af9366'),1
+DELETE,/wishlist/wishlist/34de46b0-cc6d-4494-a42a-367b3f303299,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/34de46b0-cc6d-4494-a42a-367b3f303299'),1
+DELETE,/wishlist/wishlist/3ff9bb3e-901c-44f3-af44-d8524c6fc31a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3ff9bb3e-901c-44f3-af44-d8524c6fc31a'),1
+DELETE,/wishlist/wishlist/f93950e7-07ac-4e72-97b5-87b656f4838f,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f93950e7-07ac-4e72-97b5-87b656f4838f'),1
+DELETE,/wishlist/wishlist/eb8d1763-aa10-423f-9a4b-a285c7a0428c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/eb8d1763-aa10-423f-9a4b-a285c7a0428c'),1
+GET,/wishlist/wishlist/28deb1d7-4e96-43ef-bb54-d9cd9d208cdc,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/28deb1d7-4e96-43ef-bb54-d9cd9d208cdc'),1
+DELETE,/wishlist/wishlist/26101a9f-b642-4b38-b6f9-91f4819c2529,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/26101a9f-b642-4b38-b6f9-91f4819c2529'),1
+PUT,/wishlist/wishlist/62fbaacf-12c7-4523-ade9-ed4604cd7a28,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/62fbaacf-12c7-4523-ade9-ed4604cd7a28'),1
+DELETE,/wishlist/wishlist/15df7989-06e9-462e-a0de-6fa8d9e50133,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/15df7989-06e9-462e-a0de-6fa8d9e50133'),1
+GET,/wishlist/wishlist/f9e3500f-12b9-4658-8b0e-5f163f298d5d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f9e3500f-12b9-4658-8b0e-5f163f298d5d'),1
+POST,/auth/user/login,HTTPError('504 Server Error: Gateway Time-out for url: /auth/user/login'),7
+GET,/wishlist/wishlist/47055985-60d2-4a03-bbd6-af6d333c5c60,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/47055985-60d2-4a03-bbd6-af6d333c5c60'),1
+GET,/wishlist/wishlist/5858b5a8-5c2f-424b-b588-9f9c470d231f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5858b5a8-5c2f-424b-b588-9f9c470d231f'),1
+GET,/wishlist/wishlist/40512d44-4d05-4798-91ad-82046a1b2047,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/40512d44-4d05-4798-91ad-82046a1b2047'),1
+DELETE,/wishlist/wishlist/a8bac028-bfd8-4694-84aa-b9f18b9666b5,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a8bac028-bfd8-4694-84aa-b9f18b9666b5'),1
+DELETE,/wishlist/wishlist/c7cb988b-3e0a-494f-b51f-1fcd3da793c6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c7cb988b-3e0a-494f-b51f-1fcd3da793c6'),1
+DELETE,/wishlist/wishlist/b67c17ed-52df-4cfc-a0bf-ae495d3c75d2,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b67c17ed-52df-4cfc-a0bf-ae495d3c75d2'),1
+PUT,/wishlist/wishlist/14adcfbf-89f3-4bae-ba11-abedadfc13fc,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/14adcfbf-89f3-4bae-ba11-abedadfc13fc'),1
+GET,/wishlist/wishlist,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist'),112
+DELETE,/wishlist/wishlist/c0fdbe28-fca0-49e0-9a25-53019108e29d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/c0fdbe28-fca0-49e0-9a25-53019108e29d'),1
+GET,/wishlist/wishlist/216970d8-84d3-465d-bc83-4d1b4e00f0e5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/216970d8-84d3-465d-bc83-4d1b4e00f0e5'),1
+DELETE,/wishlist/wishlist/a9417487-0cfb-4b2d-9f5e-bd80b9c3666a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a9417487-0cfb-4b2d-9f5e-bd80b9c3666a'),1
+GET,/wishlist/wishlist/5ce5afeb-d778-4ccc-8bc7-ad32ec7c4a30,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/5ce5afeb-d778-4ccc-8bc7-ad32ec7c4a30'),1
+GET,/wishlist/wishlist/34de46b0-cc6d-4494-a42a-367b3f303299,HTTPError('403 Client Error: Forbidden for url: /wishlist/wishlist/34de46b0-cc6d-4494-a42a-367b3f303299'),1
+DELETE,/wishlist/wishlist/68a4ebd5-3cfc-4ab8-abfa-7495c5487d94,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/68a4ebd5-3cfc-4ab8-abfa-7495c5487d94'),1
+DELETE,/wishlist/wishlist/5bf4cdec-e199-4ddf-889d-7226001c15d6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5bf4cdec-e199-4ddf-889d-7226001c15d6'),1
+PUT,/wishlist/wishlist/cb136c97-c745-4c33-a371-0f9fe5cc2c40,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/cb136c97-c745-4c33-a371-0f9fe5cc2c40'),1
+GET,/wishlist/wishlist/2c3acce2-408e-4561-a3c9-b5c99ae126f2,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2c3acce2-408e-4561-a3c9-b5c99ae126f2'),1
+DELETE,/wishlist/wishlist/7f05e972-ac29-4368-b62e-7f67e0958285,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7f05e972-ac29-4368-b62e-7f67e0958285'),1
+PUT,/wishlist/wishlist/109b784f-dfdb-4636-a564-d3effe98bc2d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/109b784f-dfdb-4636-a564-d3effe98bc2d'),1
+DELETE,/wishlist/wishlist/05663524-deca-464e-b114-25ebae922139,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/05663524-deca-464e-b114-25ebae922139'),1
+DELETE,/wishlist/wishlist/b0d8d8f8-a0b0-4a0f-b75c-9b3117068916,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b0d8d8f8-a0b0-4a0f-b75c-9b3117068916'),1
+DELETE,/wishlist/wishlist/98c3a8dc-ad69-4d45-9d1f-ca85f82daba6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/98c3a8dc-ad69-4d45-9d1f-ca85f82daba6'),1
+DELETE,/wishlist/wishlist/216970d8-84d3-465d-bc83-4d1b4e00f0e5,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/216970d8-84d3-465d-bc83-4d1b4e00f0e5'),2
+DELETE,/wishlist/wishlist/3d491757-eb79-415e-b78d-c4a03c3f9f8d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3d491757-eb79-415e-b78d-c4a03c3f9f8d'),1
+DELETE,/wishlist/wishlist/44a1cd8b-6608-4e2c-96ea-af8448a413c6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/44a1cd8b-6608-4e2c-96ea-af8448a413c6'),1
+DELETE,/wishlist/wishlist/60a41469-3686-4716-8a29-d365c9fc209b,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/60a41469-3686-4716-8a29-d365c9fc209b'),1
+DELETE,/wishlist/wishlist/30212111-9de8-40cb-81c9-c7c334b5ff59,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/30212111-9de8-40cb-81c9-c7c334b5ff59'),1
+GET,/wishlist/wishlist/f5757148-e239-4c09-a3df-59073e8ce576,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f5757148-e239-4c09-a3df-59073e8ce576'),1
+GET,/wishlist/wishlist/7b1e359b-4142-4b4a-ad83-002184212c57,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/7b1e359b-4142-4b4a-ad83-002184212c57'),1
+GET,/wishlist/wishlist/6d5bd1c9-a7a1-4318-876a-a0f3e929a9c0,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6d5bd1c9-a7a1-4318-876a-a0f3e929a9c0'),1
+GET,/wishlist/wishlist/7be63857-faf2-4940-81bb-36da4e954715,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/7be63857-faf2-4940-81bb-36da4e954715'),1
+GET,/wishlist/wishlist/bd63e242-3c6a-4fb1-946c-3b22a506dde2,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/bd63e242-3c6a-4fb1-946c-3b22a506dde2'),1
+DELETE,/wishlist/wishlist/a48a0c22-d89a-4f5d-8531-bc81e45e5bcc,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a48a0c22-d89a-4f5d-8531-bc81e45e5bcc'),1
+GET,/wishlist/wishlist/c859f3f0-2554-405f-bd69-8f3d6708938c,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c859f3f0-2554-405f-bd69-8f3d6708938c'),1
+DELETE,/wishlist/wishlist/ceeba7a9-3ba8-46db-8297-d69df60cb8b8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ceeba7a9-3ba8-46db-8297-d69df60cb8b8'),1
+DELETE,/wishlist/wishlist/9f06ca92-795f-46f3-9c00-43dcbd70c97d,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/9f06ca92-795f-46f3-9c00-43dcbd70c97d'),1
+DELETE,/wishlist/wishlist/aea8ab73-0292-425f-9cec-1b2b5e5443e5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/aea8ab73-0292-425f-9cec-1b2b5e5443e5'),1
+GET,/wishlist/wishlist/e30bf35c-ac84-438d-ac8e-8b841797d07f,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/e30bf35c-ac84-438d-ac8e-8b841797d07f'),1
+PUT,/wishlist/wishlist/7ba86ee4-243b-4456-abf8-5baca823212f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/7ba86ee4-243b-4456-abf8-5baca823212f'),1
+DELETE,/wishlist/wishlist/f2d0da21-f297-4a04-ab7e-35b459ff29ec,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f2d0da21-f297-4a04-ab7e-35b459ff29ec'),1
+DELETE,/wishlist/wishlist/74b28f82-fba2-4cd0-982a-42239d555eff,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/74b28f82-fba2-4cd0-982a-42239d555eff'),1
+DELETE,/wishlist/wishlist/bb7fe244-2ec3-4fdb-9605-ad091d8e73e8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/bb7fe244-2ec3-4fdb-9605-ad091d8e73e8'),1
+GET,/wishlist/wishlist/7202ec9d-9ba3-45a7-8d60-19d848bd54f2,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/7202ec9d-9ba3-45a7-8d60-19d848bd54f2'),1
+GET,/wishlist/wishlist/d568700e-145b-49c4-a432-72acb4d01775,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/d568700e-145b-49c4-a432-72acb4d01775'),1
+GET,/wishlist/wishlist/e6f16200-6714-49a3-9ebf-aa8dfcc8412e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e6f16200-6714-49a3-9ebf-aa8dfcc8412e'),1
+DELETE,/wishlist/wishlist/1fe399f0-1911-4bf3-9945-db73d1a1dbad,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/1fe399f0-1911-4bf3-9945-db73d1a1dbad'),1
+PUT,/wishlist/wishlist/7c8ef4f7-41ee-45f7-8ec1-f38539ce1afa,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/7c8ef4f7-41ee-45f7-8ec1-f38539ce1afa'),1
+DELETE,/wishlist/wishlist/a84f4430-0f96-43e5-9694-43527b77c6fb,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a84f4430-0f96-43e5-9694-43527b77c6fb'),1
+PUT,/wishlist/wishlist/ab657d28-4d48-4f52-ba80-efc4e26e5db4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ab657d28-4d48-4f52-ba80-efc4e26e5db4'),1
+DELETE,/wishlist/wishlist/2a615055-ad17-4460-bb67-07d641be733f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2a615055-ad17-4460-bb67-07d641be733f'),1
+DELETE,/wishlist/wishlist/e6465301-c6db-4cd7-a640-6316aeca0dd3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/e6465301-c6db-4cd7-a640-6316aeca0dd3'),1
+GET,/wishlist/wishlist/528b47b4-e546-431b-8067-2dd2cc8294ab,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/528b47b4-e546-431b-8067-2dd2cc8294ab'),1
+GET,/wishlist/wishlist/5f80f366-bac9-4035-a8d7-3dd9a953a6aa,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/5f80f366-bac9-4035-a8d7-3dd9a953a6aa'),1
+GET,/wishlist/wishlist/6e53a791-12ba-4acc-b433-74e8c0db2b9d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/6e53a791-12ba-4acc-b433-74e8c0db2b9d'),1
+DELETE,/wishlist/wishlist/c3b5148d-a169-4300-b65e-a3e8ee2d3d95,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c3b5148d-a169-4300-b65e-a3e8ee2d3d95'),1
+PUT,/wishlist/wishlist/a35686bb-8049-4842-8c1b-32dc26450184,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a35686bb-8049-4842-8c1b-32dc26450184'),1
+GET,/wishlist/wishlist/c7a56cc5-1e6a-4ee7-a712-ec37ef117cbe,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/c7a56cc5-1e6a-4ee7-a712-ec37ef117cbe'),1
+GET,/wishlist/wishlist/642ac2c2-9e72-4ad8-9150-6fba2a1d952f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/642ac2c2-9e72-4ad8-9150-6fba2a1d952f'),1
+GET,/wishlist/wishlist/ce5013d9-f742-407d-8f4f-c85e5d3dc653,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ce5013d9-f742-407d-8f4f-c85e5d3dc653'),1
+GET,/wishlist/wishlist/ad9c5671-9314-4297-83e0-6f10009c44f8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ad9c5671-9314-4297-83e0-6f10009c44f8'),1
+GET,/wishlist/wishlist/a720daab-ba9d-4c09-a3da-2840584d35af,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/a720daab-ba9d-4c09-a3da-2840584d35af'),1
+GET,/wishlist/wishlist/451ca92c-4770-48d0-8447-78aea84ad24b,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/451ca92c-4770-48d0-8447-78aea84ad24b'),1
+PUT,/wishlist/wishlist/00659683-0466-49ae-a924-ebbb1a569e43,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/00659683-0466-49ae-a924-ebbb1a569e43'),1
+DELETE,/wishlist/wishlist/5e3ecd92-3aa2-4d9c-9193-b7b62f5b1203,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/5e3ecd92-3aa2-4d9c-9193-b7b62f5b1203'),1
+GET,/wishlist/wishlist/a026a407-6c36-4435-896a-53708c061369,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/a026a407-6c36-4435-896a-53708c061369'),1
+GET,/wishlist/wishlist/b8cbb9ac-a557-42ec-be87-5b90218812ae,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b8cbb9ac-a557-42ec-be87-5b90218812ae'),1
+DELETE,/wishlist/wishlist/db453237-9e9f-460d-9c57-36c1f67c22b4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/db453237-9e9f-460d-9c57-36c1f67c22b4'),1
+GET,/wishlist/wishlist/15fac88a-2979-4b7e-9b5b-058d56a879c1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/15fac88a-2979-4b7e-9b5b-058d56a879c1'),1
+POST,/auth/user/login,HTTPError('404 Client Error: Not Found for url: /auth/user/login'),941
+DELETE,/wishlist/wishlist/e886a625-a363-4015-acb1-f2229e611e59,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e886a625-a363-4015-acb1-f2229e611e59'),1
+DELETE,/wishlist/wishlist/079f23f7-6e17-4895-b473-68c36faa771a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/079f23f7-6e17-4895-b473-68c36faa771a'),1
+DELETE,/wishlist/wishlist/0e94b3ba-6807-4a37-9012-06085bd509e2,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0e94b3ba-6807-4a37-9012-06085bd509e2'),1
+GET,/wishlist/wishlist/50a50c18-c34c-4a0c-9dbe-2efb4207cc0c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/50a50c18-c34c-4a0c-9dbe-2efb4207cc0c'),1
+DELETE,/wishlist/wishlist/23536c56-f336-4b36-ab8a-6f1f0f79fa56,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/23536c56-f336-4b36-ab8a-6f1f0f79fa56'),1
+DELETE,/wishlist/wishlist/b1a5b8b9-c18e-45b5-9b1b-d5a3d93fa407,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b1a5b8b9-c18e-45b5-9b1b-d5a3d93fa407'),1
+DELETE,/wishlist/wishlist/0e0e4c6f-e6a2-41c2-94a6-bf46f78a48c1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0e0e4c6f-e6a2-41c2-94a6-bf46f78a48c1'),1
+DELETE,/wishlist/wishlist/2bc2596a-189b-4844-9ef3-60e856445d8e,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/2bc2596a-189b-4844-9ef3-60e856445d8e'),1
+DELETE,/wishlist/wishlist/109b784f-dfdb-4636-a564-d3effe98bc2d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/109b784f-dfdb-4636-a564-d3effe98bc2d'),1
+DELETE,/wishlist/wishlist/2d812e3a-c624-46d5-a7fb-41e921f26c2a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2d812e3a-c624-46d5-a7fb-41e921f26c2a'),1
+GET,/wishlist/wishlist/4b50b3d4-1968-47ff-87a2-e992420c6f7a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/4b50b3d4-1968-47ff-87a2-e992420c6f7a'),1
+PUT,/wishlist/wishlist/2f3feb93-57a9-4e81-b10e-f407cc6bc492,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2f3feb93-57a9-4e81-b10e-f407cc6bc492'),1
+DELETE,/wishlist/wishlist/f2b04677-4965-469c-afd9-33ce3d450e02,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f2b04677-4965-469c-afd9-33ce3d450e02'),1
+DELETE,/wishlist/wishlist/a71309de-3ef8-46b9-9fd2-a8f219fe46c7,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a71309de-3ef8-46b9-9fd2-a8f219fe46c7'),1
+DELETE,/wishlist/wishlist/1d3c56ae-27b8-4731-a8ff-fbc04ec3f159,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1d3c56ae-27b8-4731-a8ff-fbc04ec3f159'),1
+DELETE,/wishlist/wishlist/f5abc7d8-401a-4d1a-929b-7197f80c7237,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f5abc7d8-401a-4d1a-929b-7197f80c7237'),1
+DELETE,/wishlist/wishlist/4f405a12-2c90-4ded-a994-ee101363a484,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/4f405a12-2c90-4ded-a994-ee101363a484'),1
+GET,/wishlist/wishlist/84ba9aa3-72cf-4229-8d45-0a53a592a489,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/84ba9aa3-72cf-4229-8d45-0a53a592a489'),1
+DELETE,/wishlist/wishlist/c859f3f0-2554-405f-bd69-8f3d6708938c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/c859f3f0-2554-405f-bd69-8f3d6708938c'),1
+DELETE,/wishlist/wishlist/38019c64-80d7-4583-8de0-1da2a00e5d2a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/38019c64-80d7-4583-8de0-1da2a00e5d2a'),1
+DELETE,/wishlist/wishlist/9064b0c2-35a4-4818-b3a1-e28f7f202825,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/9064b0c2-35a4-4818-b3a1-e28f7f202825'),1
+DELETE,/wishlist/wishlist/c279c8e5-9e24-4c61-8ff8-b5e5ce507627,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c279c8e5-9e24-4c61-8ff8-b5e5ce507627'),1
+DELETE,/wishlist/wishlist/61c3c29b-1391-4549-929e-cbef8c1b661f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/61c3c29b-1391-4549-929e-cbef8c1b661f'),1
+GET,/wishlist/wishlist/9976b365-efec-4a3c-b39f-a22e959a50a6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/9976b365-efec-4a3c-b39f-a22e959a50a6'),1
+GET,/wishlist/wishlist/7910928f-a1b2-4349-9696-548160a00859,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/7910928f-a1b2-4349-9696-548160a00859'),2
+PUT,/wishlist/wishlist/fc37511c-79af-4388-9f6d-707eb7185894,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/fc37511c-79af-4388-9f6d-707eb7185894'),1
+DELETE,/wishlist/wishlist/9549206b-bd27-41cf-a1a8-99e6ab875e87,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/9549206b-bd27-41cf-a1a8-99e6ab875e87'),1
+DELETE,/wishlist/wishlist/887fd75e-9496-4454-a7bc-fcbfe019f7d5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/887fd75e-9496-4454-a7bc-fcbfe019f7d5'),1
+PUT,/wishlist/wishlist/93aabefa-ffb0-4cb2-b623-908c814c4e3d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/93aabefa-ffb0-4cb2-b623-908c814c4e3d'),1
+DELETE,/wishlist/wishlist/fb37a892-c33a-4e9c-b0f0-5c8cf12d9740,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/fb37a892-c33a-4e9c-b0f0-5c8cf12d9740'),1
+GET,/wishlist/wishlist/6df3aea7-e92a-4ae1-80e2-f7a416c4b291,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/6df3aea7-e92a-4ae1-80e2-f7a416c4b291'),1
+GET,/wishlist/wishlist/3db8dc56-e86d-436f-810b-cdbb761fb412,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3db8dc56-e86d-436f-810b-cdbb761fb412'),1
+DELETE,/wishlist/wishlist/1b6fdc0c-8224-4886-9605-6aded3af67f8,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/1b6fdc0c-8224-4886-9605-6aded3af67f8'),1
+PUT,/wishlist/wishlist/779d61b0-c517-466c-8466-50a87c85a2e4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/779d61b0-c517-466c-8466-50a87c85a2e4'),1
+GET,/wishlist/wishlist/b355f4c1-1db1-4ffe-abc4-6269b991480b,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/b355f4c1-1db1-4ffe-abc4-6269b991480b'),1
+DELETE,/wishlist/wishlist/26425d13-55cb-4157-829d-2e5ee271c4a2,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/26425d13-55cb-4157-829d-2e5ee271c4a2'),1
+DELETE,/wishlist/wishlist/979c6321-13da-4bd8-9cd4-a6edf6714196,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/979c6321-13da-4bd8-9cd4-a6edf6714196'),1
+GET,/wishlist/wishlist/e40d7879-48e3-4c77-8d26-c2ff27bacb80,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/e40d7879-48e3-4c77-8d26-c2ff27bacb80'),1
+PUT,/wishlist/wishlist/e61b0f96-661d-4e38-8198-dbaa4a922fbf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e61b0f96-661d-4e38-8198-dbaa4a922fbf'),1
+PUT,/wishlist/wishlist/dfcab9a9-81aa-4b42-abb9-72ac3a23c0a5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/dfcab9a9-81aa-4b42-abb9-72ac3a23c0a5'),1
+DELETE,/wishlist/wishlist/031e4733-3aa5-441d-b5c7-9e8df28dcbfc,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/031e4733-3aa5-441d-b5c7-9e8df28dcbfc'),1
+GET,/wishlist/wishlist/ec4d49d8-c262-4bad-b60c-ae676a4b6c97,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ec4d49d8-c262-4bad-b60c-ae676a4b6c97'),1
+DELETE,/wishlist/wishlist/17c5bc0e-7160-40ec-964a-da8c5285483b,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/17c5bc0e-7160-40ec-964a-da8c5285483b'),1
+GET,/wishlist/wishlist/86faeff2-c3d5-4640-873e-1ba649a19bad,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/86faeff2-c3d5-4640-873e-1ba649a19bad'),1
+PUT,/wishlist/wishlist/d6ddca09-ef4a-491a-a153-fd02ee152568,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d6ddca09-ef4a-491a-a153-fd02ee152568'),1
+DELETE,/wishlist/wishlist/7a29c397-9666-4361-b9ab-35e80cad34d4,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7a29c397-9666-4361-b9ab-35e80cad34d4'),1
+GET,/wishlist/wishlist/3a7b72ec-0e9b-4c89-95c1-fa78f1f6902b,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/3a7b72ec-0e9b-4c89-95c1-fa78f1f6902b'),1
+GET,/wishlist/wishlist/44338ec0-e455-4149-80b5-4e5955844e11,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/44338ec0-e455-4149-80b5-4e5955844e11'),1
+DELETE,/wishlist/wishlist/3ddc63c6-ced5-4030-9af8-f03d9985ab85,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3ddc63c6-ced5-4030-9af8-f03d9985ab85'),1
+DELETE,/wishlist/wishlist/84b71cd3-d3cc-45c0-95c9-1bfa3098ab49,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/84b71cd3-d3cc-45c0-95c9-1bfa3098ab49'),1
+DELETE,/wishlist/wishlist/59286b01-ba8d-46ee-9ba4-d8da6dee9858,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/59286b01-ba8d-46ee-9ba4-d8da6dee9858'),1
+DELETE,/wishlist/wishlist/12ef81c7-574b-4c7f-a96e-1773135b48a8,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/12ef81c7-574b-4c7f-a96e-1773135b48a8'),1
+GET,/wishlist/wishlist/295d9525-3128-4aeb-9cd4-13a60af55faf,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/295d9525-3128-4aeb-9cd4-13a60af55faf'),1
+PUT,/wishlist/wishlist/6823a598-7602-4b98-8f71-6c4fee722b33,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6823a598-7602-4b98-8f71-6c4fee722b33'),1
+DELETE,/wishlist/wishlist/8dc2e7ab-c172-423d-b360-1fde98d322aa,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8dc2e7ab-c172-423d-b360-1fde98d322aa'),1
+DELETE,/wishlist/wishlist/f5757148-e239-4c09-a3df-59073e8ce576,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f5757148-e239-4c09-a3df-59073e8ce576'),1
+GET,/wishlist/wishlist/ed3d0e6e-25fb-4cab-bf44-452cf4b9d1ee,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ed3d0e6e-25fb-4cab-bf44-452cf4b9d1ee'),1
+GET,/wishlist/wishlist/36b6b509-ef9e-4e1f-864f-c6947b890950,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/36b6b509-ef9e-4e1f-864f-c6947b890950'),1
+DELETE,/wishlist/wishlist/fc37511c-79af-4388-9f6d-707eb7185894,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/fc37511c-79af-4388-9f6d-707eb7185894'),1
+GET,/wishlist/wishlist/d8b20169-bb83-4978-893d-c091cec654b2,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d8b20169-bb83-4978-893d-c091cec654b2'),1
+DELETE,/wishlist/wishlist/c7a56cc5-1e6a-4ee7-a712-ec37ef117cbe,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c7a56cc5-1e6a-4ee7-a712-ec37ef117cbe'),1
+DELETE,/wishlist/wishlist/f200a03a-beae-440e-b569-b4704c590c30,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f200a03a-beae-440e-b569-b4704c590c30'),1
+GET,/wishlist/wishlist/14cc17e4-4ac3-4df1-9bf2-43438f75b0fd,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/14cc17e4-4ac3-4df1-9bf2-43438f75b0fd'),1
+DELETE,/wishlist/wishlist/e7690587-49b5-4843-9854-0520babcc6dd,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/e7690587-49b5-4843-9854-0520babcc6dd'),1
+PUT,/wishlist/wishlist/39baf9d2-ce5c-4040-9891-642b442dacc2,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/39baf9d2-ce5c-4040-9891-642b442dacc2'),1
+DELETE,/wishlist/wishlist/960951aa-ab9d-4cc4-96c4-e8d4656dbd35,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/960951aa-ab9d-4cc4-96c4-e8d4656dbd35'),1
+DELETE,/wishlist/wishlist/06bb85f5-7577-4f28-9e7a-3c01670b0bab,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/06bb85f5-7577-4f28-9e7a-3c01670b0bab'),1
+GET,/wishlist/wishlist/91fa7f4e-884d-4f18-9252-5ee2c02097dd,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/91fa7f4e-884d-4f18-9252-5ee2c02097dd'),1
+PUT,/wishlist/wishlist/db9d3a89-81a1-4510-8d77-fdea2773c100,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/db9d3a89-81a1-4510-8d77-fdea2773c100'),1
+DELETE,/wishlist/wishlist/2c3acce2-408e-4561-a3c9-b5c99ae126f2,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/2c3acce2-408e-4561-a3c9-b5c99ae126f2'),1
+GET,/wishlist/wishlist/79ae24e5-3b6d-4b62-b484-891ec1d6fac4,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/79ae24e5-3b6d-4b62-b484-891ec1d6fac4'),1
+DELETE,/wishlist/wishlist/98285e61-13d9-46e8-afef-2b733f1f2bbb,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/98285e61-13d9-46e8-afef-2b733f1f2bbb'),1
+DELETE,/wishlist/wishlist/174acabf-d0c0-4f2d-87a2-07a6fbeb34c6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/174acabf-d0c0-4f2d-87a2-07a6fbeb34c6'),1
+DELETE,/wishlist/wishlist/d398f502-c906-4d26-bb18-06a219624cc0,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/d398f502-c906-4d26-bb18-06a219624cc0'),1
+DELETE,/wishlist/wishlist/d5add238-f8ea-4176-9986-1aaabee2d3be,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d5add238-f8ea-4176-9986-1aaabee2d3be'),1
+DELETE,/wishlist/wishlist/6a66c153-adb2-40b6-92cc-72778b9ebce4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6a66c153-adb2-40b6-92cc-72778b9ebce4'),1
+DELETE,/wishlist/wishlist/abd6d1c5-f713-4d06-adb0-17e9fc3d1077,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/abd6d1c5-f713-4d06-adb0-17e9fc3d1077'),1
+GET,/wishlist/wishlist/a21520eb-cb1e-4ab8-b7b0-78f15a454edb,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a21520eb-cb1e-4ab8-b7b0-78f15a454edb'),1
+DELETE,/wishlist/wishlist/117ee414-8219-4537-941a-db6ad17041d3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/117ee414-8219-4537-941a-db6ad17041d3'),1
+PUT,/wishlist/wishlist/8c663a13-6898-4445-90ef-e815b229bf54,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8c663a13-6898-4445-90ef-e815b229bf54'),1
+GET,/wishlist/wishlist/f6ff8db9-3b9f-4e28-9344-605d201f96b9,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f6ff8db9-3b9f-4e28-9344-605d201f96b9'),1
+GET,/wishlist/wishlist/c0744fac-eb49-46f6-981b-e3dbbddf1a23,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c0744fac-eb49-46f6-981b-e3dbbddf1a23'),1
+DELETE,/wishlist/wishlist/6e0f5d00-ee95-4837-a5aa-5409889a7152,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6e0f5d00-ee95-4837-a5aa-5409889a7152'),1
+GET,/wishlist/wishlist/8dc2e7ab-c172-423d-b360-1fde98d322aa,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8dc2e7ab-c172-423d-b360-1fde98d322aa'),1
+GET,/wishlist/wishlist/6ae0d533-44a9-42a0-9e4c-aecf505782a1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6ae0d533-44a9-42a0-9e4c-aecf505782a1'),1
+DELETE,/wishlist/wishlist/3162441f-102b-4d18-91f1-3a340ed82350,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3162441f-102b-4d18-91f1-3a340ed82350'),1
+PUT,/wishlist/wishlist/80cdf504-73c4-4662-8d3d-d20eae14a6ce,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/80cdf504-73c4-4662-8d3d-d20eae14a6ce'),1
+GET,/wishlist/wishlist/9226e0b1-77fa-45dd-a667-acb31b86afdc,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/9226e0b1-77fa-45dd-a667-acb31b86afdc'),1
+GET,/wishlist/wishlist/15df7989-06e9-462e-a0de-6fa8d9e50133,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/15df7989-06e9-462e-a0de-6fa8d9e50133'),1
+GET,/wishlist/wishlist/a3cafe29-a851-4383-a796-1cc640875ffe,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a3cafe29-a851-4383-a796-1cc640875ffe'),1
+GET,/wishlist/wishlist/0d96bfeb-f146-4d6c-86a1-e6b76ecd957b,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/0d96bfeb-f146-4d6c-86a1-e6b76ecd957b'),1
+DELETE,/wishlist/wishlist/fa618541-eece-4a28-a3df-245696fedf4f,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/fa618541-eece-4a28-a3df-245696fedf4f'),1
+GET,/wishlist/wishlist/a09224ed-e872-4ce0-b1ba-a99a8c1248aa,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/a09224ed-e872-4ce0-b1ba-a99a8c1248aa'),1
+DELETE,/wishlist/wishlist/73260150-2531-409a-97cc-2c0cd4d42496,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/73260150-2531-409a-97cc-2c0cd4d42496'),1
+GET,/wishlist/wishlist/409f4b0c-8e34-47e5-9e1d-97981037d4c3,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/409f4b0c-8e34-47e5-9e1d-97981037d4c3'),1
+GET,/wishlist/wishlist/aec06160-be92-4390-a811-41e2b2b218e1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/aec06160-be92-4390-a811-41e2b2b218e1'),1
+GET,/wishlist/wishlist/13747efb-6713-494c-a7b4-490c7ce23a89,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/13747efb-6713-494c-a7b4-490c7ce23a89'),1
+GET,/wishlist/wishlist/6492aff3-e174-4740-81c7-98721d54e781,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6492aff3-e174-4740-81c7-98721d54e781'),1
+GET,/wishlist/wishlist/0e7699ef-0994-439f-b66c-05dc9423cfbb,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/0e7699ef-0994-439f-b66c-05dc9423cfbb'),1
+GET,/wishlist/wishlist/24b19098-7a3c-49d9-8cf9-ddaa89654528,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/24b19098-7a3c-49d9-8cf9-ddaa89654528'),1
+GET,/wishlist/wishlist/308fd5fc-4386-4de8-b89f-10b89e3d21e1,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/308fd5fc-4386-4de8-b89f-10b89e3d21e1'),1
+DELETE,/wishlist/wishlist/e2b74ebb-e0ba-4d64-b3ee-ef2a2f8737fb,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/e2b74ebb-e0ba-4d64-b3ee-ef2a2f8737fb'),1
+GET,/wishlist/wishlist/8fa48d8d-6138-482a-823f-7b8d0e8b4802,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/8fa48d8d-6138-482a-823f-7b8d0e8b4802'),1
+DELETE,/wishlist/wishlist/3db8dc56-e86d-436f-810b-cdbb761fb412,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3db8dc56-e86d-436f-810b-cdbb761fb412'),1
+GET,/wishlist/wishlist/f167b63b-d9a9-4cf3-a626-e4369379e9fe,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f167b63b-d9a9-4cf3-a626-e4369379e9fe'),1
+PUT,/wishlist/wishlist/212c4506-f724-4fd2-99a9-f925dd2ae922,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/212c4506-f724-4fd2-99a9-f925dd2ae922'),1
+DELETE,/wishlist/wishlist/b16446b2-fd17-4cde-a14a-7ca40af3dc1c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b16446b2-fd17-4cde-a14a-7ca40af3dc1c'),1
+GET,/wishlist/wishlist/1ad4e3f6-5a61-4954-8c1c-c77eef84a25d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/1ad4e3f6-5a61-4954-8c1c-c77eef84a25d'),1
+DELETE,/wishlist/wishlist/f6ff8db9-3b9f-4e28-9344-605d201f96b9,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f6ff8db9-3b9f-4e28-9344-605d201f96b9'),1
+GET,/wishlist/wishlist/031e4733-3aa5-441d-b5c7-9e8df28dcbfc,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/031e4733-3aa5-441d-b5c7-9e8df28dcbfc'),1
+DELETE,/wishlist/wishlist/b480adf2-dcef-4680-b619-5cae37b2210b,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b480adf2-dcef-4680-b619-5cae37b2210b'),1
+GET,/wishlist/wishlist/8eeec38b-ad99-4d44-96f6-d774e10f8ac6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8eeec38b-ad99-4d44-96f6-d774e10f8ac6'),1
+GET,/wishlist/wishlist/ab657d28-4d48-4f52-ba80-efc4e26e5db4,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/ab657d28-4d48-4f52-ba80-efc4e26e5db4'),1
+DELETE,/wishlist/wishlist/15fac88a-2979-4b7e-9b5b-058d56a879c1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/15fac88a-2979-4b7e-9b5b-058d56a879c1'),1
+DELETE,/wishlist/wishlist/d867a7ff-a7be-4c4b-90ac-061da118d311,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/d867a7ff-a7be-4c4b-90ac-061da118d311'),1
+DELETE,/wishlist/wishlist/a49650da-ec17-49fa-b866-a35b5a59de1a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a49650da-ec17-49fa-b866-a35b5a59de1a'),2
+GET,/wishlist/wishlist/aecd4dec-5c95-4477-9410-5cc770c7cc88,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/aecd4dec-5c95-4477-9410-5cc770c7cc88'),1
+DELETE,/wishlist/wishlist/f8abae29-3d72-4491-ab90-698794049b12,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f8abae29-3d72-4491-ab90-698794049b12'),1
+GET,/wishlist/wishlist/9d525360-eab5-46dc-b46b-787076a6d2d1,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/9d525360-eab5-46dc-b46b-787076a6d2d1'),1
+GET,/wishlist/wishlist/a9417487-0cfb-4b2d-9f5e-bd80b9c3666a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a9417487-0cfb-4b2d-9f5e-bd80b9c3666a'),1
+PUT,/wishlist/wishlist/f6db3277-693f-47ac-9ed8-0e6aab5a734d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f6db3277-693f-47ac-9ed8-0e6aab5a734d'),1
+GET,/wishlist/wishlist/93aabefa-ffb0-4cb2-b623-908c814c4e3d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/93aabefa-ffb0-4cb2-b623-908c814c4e3d'),1
+POST,/auth/user/register,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 34.126.173.57 timed out. (connect timeout=None)')",45
+DELETE,/wishlist/wishlist/d321f9eb-7bef-4bdb-ad76-917c81ee7482,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/d321f9eb-7bef-4bdb-ad76-917c81ee7482'),1
+GET,/wishlist/wishlist/feaad9fa-2f2a-48d4-9c75-caf85ded1e04,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/feaad9fa-2f2a-48d4-9c75-caf85ded1e04'),1
+GET,/wishlist/wishlist/bd8e35c7-27ed-4a25-ba02-84f735b6b784,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/bd8e35c7-27ed-4a25-ba02-84f735b6b784'),1
+DELETE,/wishlist/wishlist/01713e94-85ee-48d5-88c7-e7792116acd6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/01713e94-85ee-48d5-88c7-e7792116acd6'),1
+GET,/wishlist/wishlist/6d6f3685-0371-440c-9fb9-75f34dfecb45,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/6d6f3685-0371-440c-9fb9-75f34dfecb45'),1
+DELETE,/wishlist/wishlist/02e1d82e-b3d3-4e86-b65c-53b69e32d987,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/02e1d82e-b3d3-4e86-b65c-53b69e32d987'),1
+DELETE,/wishlist/wishlist/6e469ea8-6040-4e1b-b6c8-292a25d8b902,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6e469ea8-6040-4e1b-b6c8-292a25d8b902'),1
+DELETE,/wishlist/wishlist/5858b5a8-5c2f-424b-b588-9f9c470d231f,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/5858b5a8-5c2f-424b-b588-9f9c470d231f'),1
+DELETE,/wishlist/wishlist/8be1d887-c69d-4c67-8a69-c82dda7fc3c8,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/8be1d887-c69d-4c67-8a69-c82dda7fc3c8'),1
+DELETE,/wishlist/wishlist/779d61b0-c517-466c-8466-50a87c85a2e4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/779d61b0-c517-466c-8466-50a87c85a2e4'),1
+GET,/wishlist/wishlist/4ab485f3-6b10-46a2-9312-c1530ff6b1b7,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/4ab485f3-6b10-46a2-9312-c1530ff6b1b7'),1
+DELETE,/wishlist/wishlist/39baf9d2-ce5c-4040-9891-642b442dacc2,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/39baf9d2-ce5c-4040-9891-642b442dacc2'),1
+PUT,/wishlist/wishlist/0cb85275-be45-4521-a641-60f483f524cf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0cb85275-be45-4521-a641-60f483f524cf'),1
+PUT,/wishlist/wishlist/672b351a-37d7-4b02-bc15-a303f8fdce91,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/672b351a-37d7-4b02-bc15-a303f8fdce91'),1
+DELETE,/wishlist/wishlist/b5a1dc45-914b-477d-99b2-c0bedb860497,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b5a1dc45-914b-477d-99b2-c0bedb860497'),1
+GET,/wishlist/wishlist/117dc7fd-e2c4-4eb4-b10b-19855906baab,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/117dc7fd-e2c4-4eb4-b10b-19855906baab'),1
+GET,/wishlist/wishlist/ee5947a5-553d-4fa2-a85b-89212f519076,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/ee5947a5-553d-4fa2-a85b-89212f519076'),1
+GET,/wishlist/wishlist/3ae6f0ef-669d-48ed-a800-6b685e6cb9b6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/3ae6f0ef-669d-48ed-a800-6b685e6cb9b6'),1
+GET,/wishlist/wishlist/174acabf-d0c0-4f2d-87a2-07a6fbeb34c6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/174acabf-d0c0-4f2d-87a2-07a6fbeb34c6'),1
+GET,/wishlist/wishlist/550af7c7-4da4-4072-85f5-54b223258783,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/550af7c7-4da4-4072-85f5-54b223258783'),1
+DELETE,/wishlist/wishlist/b9a30112-fecd-470c-9ebc-10b20ea46fc1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b9a30112-fecd-470c-9ebc-10b20ea46fc1'),1
+GET,/wishlist/wishlist/59229832-98b1-449f-9ecb-b88148e88e29,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/59229832-98b1-449f-9ecb-b88148e88e29'),1
+GET,/wishlist/wishlist/db453237-9e9f-460d-9c57-36c1f67c22b4,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/db453237-9e9f-460d-9c57-36c1f67c22b4'),1
+GET,/wishlist/wishlist/45368d89-312d-4525-9675-9bf919bb3db0,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/45368d89-312d-4525-9675-9bf919bb3db0'),1
+GET,/wishlist/wishlist/4dcaed63-b2d1-4c49-b636-20fe18a8dbbf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/4dcaed63-b2d1-4c49-b636-20fe18a8dbbf'),1
+DELETE,/wishlist/wishlist/13747efb-6713-494c-a7b4-490c7ce23a89,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/13747efb-6713-494c-a7b4-490c7ce23a89'),1
+DELETE,/wishlist/wishlist/a3cafe29-a851-4383-a796-1cc640875ffe,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a3cafe29-a851-4383-a796-1cc640875ffe'),1
+GET,/wishlist/wishlist/606f2833-60b6-424d-8491-af5234c9c559,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/606f2833-60b6-424d-8491-af5234c9c559'),1
+DELETE,/wishlist/wishlist/04f415e4-b58e-407c-8efc-e664f28a624d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/04f415e4-b58e-407c-8efc-e664f28a624d'),1
+POST,/auth/user/register,HTTPError('504 Server Error: Gateway Time-out for url: /auth/user/register'),967
+GET,/wishlist/wishlist/a84f4430-0f96-43e5-9694-43527b77c6fb,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a84f4430-0f96-43e5-9694-43527b77c6fb'),1
+DELETE,/wishlist/wishlist/6caf99a8-8606-46cf-b328-95ca428dcf34,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6caf99a8-8606-46cf-b328-95ca428dcf34'),1
+PUT,/wishlist/wishlist/c0ee93cf-e873-4437-8a99-fa45590c4bc8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/c0ee93cf-e873-4437-8a99-fa45590c4bc8'),1
+DELETE,/wishlist/wishlist/d2a5da50-bc3e-4ef4-9786-7feaca2e3cce,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/d2a5da50-bc3e-4ef4-9786-7feaca2e3cce'),1
+DELETE,/wishlist/wishlist/5f80f366-bac9-4035-a8d7-3dd9a953a6aa,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/5f80f366-bac9-4035-a8d7-3dd9a953a6aa'),1
+GET,/wishlist/wishlist/f4a458cd-a088-4fa4-a5ee-2e69650add77,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f4a458cd-a088-4fa4-a5ee-2e69650add77'),1
+GET,/wishlist/wishlist/b2eb26e2-0939-4103-9e2b-1f511929c5eb,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/b2eb26e2-0939-4103-9e2b-1f511929c5eb'),1
+DELETE,/wishlist/wishlist/a354a558-a886-4908-84da-a4e66a2731a1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a354a558-a886-4908-84da-a4e66a2731a1'),1
+DELETE,/wishlist/wishlist/f209e989-d7ce-420b-86af-464f22800ecf,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f209e989-d7ce-420b-86af-464f22800ecf'),1
+GET,/wishlist/wishlist/d14b19b6-c868-4590-8291-dcd721508251,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d14b19b6-c868-4590-8291-dcd721508251'),1
+GET,/wishlist/wishlist/f2b04677-4965-469c-afd9-33ce3d450e02,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f2b04677-4965-469c-afd9-33ce3d450e02'),1
+DELETE,/wishlist/wishlist/0d96bfeb-f146-4d6c-86a1-e6b76ecd957b,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0d96bfeb-f146-4d6c-86a1-e6b76ecd957b'),1
+DELETE,/wishlist/wishlist/16c23996-0690-4107-bc78-854254cc2d60,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/16c23996-0690-4107-bc78-854254cc2d60'),1
+GET,/wishlist/wishlist/9549206b-bd27-41cf-a1a8-99e6ab875e87,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/9549206b-bd27-41cf-a1a8-99e6ab875e87'),1
+GET,/wishlist/wishlist/8a97949d-adf4-46a4-8e87-d1b77b20d886,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/8a97949d-adf4-46a4-8e87-d1b77b20d886'),1
+DELETE,/wishlist/wishlist/4dcaed63-b2d1-4c49-b636-20fe18a8dbbf,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/4dcaed63-b2d1-4c49-b636-20fe18a8dbbf'),1
+DELETE,/wishlist/wishlist/96cbaa73-a225-4101-9196-6f28722caafd,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/96cbaa73-a225-4101-9196-6f28722caafd'),1
+GET,/wishlist/wishlist/8d9f7f34-31c1-4dfb-8e6d-1ce268211586,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/8d9f7f34-31c1-4dfb-8e6d-1ce268211586'),1
+GET,/wishlist/wishlist/cc58e347-7631-4cfc-8871-c7c4e1d82448,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/cc58e347-7631-4cfc-8871-c7c4e1d82448'),1
+GET,/wishlist/wishlist/db8736cb-f624-4bd6-b654-b7e9f9733d52,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/db8736cb-f624-4bd6-b654-b7e9f9733d52'),1
+DELETE,/wishlist/wishlist/62b8e8d2-8155-4234-b828-8cfbac2338e9,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/62b8e8d2-8155-4234-b828-8cfbac2338e9'),1
+DELETE,/wishlist/wishlist/160acc3a-8fa2-430a-992d-2667b781ae49,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/160acc3a-8fa2-430a-992d-2667b781ae49'),1
+DELETE,/wishlist/wishlist/81f0e9f6-42bf-4f45-bb6e-8d2546e7406d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/81f0e9f6-42bf-4f45-bb6e-8d2546e7406d'),1
+DELETE,/wishlist/wishlist/bfeac603-1e9e-4ad1-adec-2cfdc47e95d6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/bfeac603-1e9e-4ad1-adec-2cfdc47e95d6'),1
+DELETE,/wishlist/wishlist/7f0629db-ba9a-4d57-9986-566b74bcfad5,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7f0629db-ba9a-4d57-9986-566b74bcfad5'),1
+DELETE,/wishlist/wishlist/aec06160-be92-4390-a811-41e2b2b218e1,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/aec06160-be92-4390-a811-41e2b2b218e1'),1
+PUT,/wishlist/wishlist/6dde8060-7f8e-4b44-8ac9-46994f3610bf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6dde8060-7f8e-4b44-8ac9-46994f3610bf'),1
+DELETE,/wishlist/wishlist/cdef3793-07a2-475f-8ebe-3cd6b426f9b3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/cdef3793-07a2-475f-8ebe-3cd6b426f9b3'),1
+DELETE,/wishlist/wishlist/87161f18-51b1-4ade-8d3b-778ac482c799,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/87161f18-51b1-4ade-8d3b-778ac482c799'),1
+DELETE,/wishlist/wishlist/d71be564-6eed-4e47-8e40-c2518cb7b731,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d71be564-6eed-4e47-8e40-c2518cb7b731'),1
+PUT,/wishlist/wishlist/0314b446-a6ac-4964-8105-e45490dd1658,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0314b446-a6ac-4964-8105-e45490dd1658'),1
+GET,/wishlist/wishlist/d7cf7a60-77d3-431d-b20f-a8a5939e3c7e,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/d7cf7a60-77d3-431d-b20f-a8a5939e3c7e'),1
+GET,/wishlist/wishlist/f8044903-4893-4f13-b01a-c0712d8ab4f0,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f8044903-4893-4f13-b01a-c0712d8ab4f0'),1
+DELETE,/wishlist/wishlist/3013cda3-6a43-4c2f-89c6-088dc0e1bde3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3013cda3-6a43-4c2f-89c6-088dc0e1bde3'),1
+PUT,/wishlist/wishlist/667de281-44c6-4431-a089-86eb5c477ccf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/667de281-44c6-4431-a089-86eb5c477ccf'),1
+PUT,/wishlist/wishlist/b184a2c8-31aa-485d-a7c1-5b9286f38b10,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b184a2c8-31aa-485d-a7c1-5b9286f38b10'),1
+DELETE,/wishlist/wishlist/21ef1456-a2fd-4e2c-89c9-8e2cc3ed07c4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/21ef1456-a2fd-4e2c-89c9-8e2cc3ed07c4'),1
+GET,/wishlist/wishlist/a354a558-a886-4908-84da-a4e66a2731a1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a354a558-a886-4908-84da-a4e66a2731a1'),1
+DELETE,/wishlist/wishlist/ee6e78c8-582d-4f04-98c6-b2020745eb72,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ee6e78c8-582d-4f04-98c6-b2020745eb72'),1
+GET,/wishlist/wishlist/c479f623-ab50-49f7-8444-c45c75ad148a,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c479f623-ab50-49f7-8444-c45c75ad148a'),1
+PUT,/wishlist/wishlist/f8d0e602-c768-4ce5-94e3-b632beb0b4e6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f8d0e602-c768-4ce5-94e3-b632beb0b4e6'),1
+POST,/auth/user/login,HTTPError('500 Server Error: Internal Server Error for url: /auth/user/login'),103
+DELETE,/wishlist/wishlist/c479f623-ab50-49f7-8444-c45c75ad148a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c479f623-ab50-49f7-8444-c45c75ad148a'),1
+PUT,/wishlist/wishlist/dd92c535-4941-4b72-88cf-69b2822b3ec2,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/dd92c535-4941-4b72-88cf-69b2822b3ec2'),1
+DELETE,/wishlist/wishlist/8e2d3955-4cc1-41da-9b46-b103789f3303,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/8e2d3955-4cc1-41da-9b46-b103789f3303'),1
+GET,/wishlist/wishlist/628a15c7-8072-40fe-b666-bcd01888cfe5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/628a15c7-8072-40fe-b666-bcd01888cfe5'),1
+GET,/wishlist/wishlist/38518e55-6dd8-4e07-8b03-55c95bc66b41,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/38518e55-6dd8-4e07-8b03-55c95bc66b41'),1
+DELETE,/wishlist/wishlist/7dc66e6b-9a61-4535-ae9c-ea8c0c14ea19,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7dc66e6b-9a61-4535-ae9c-ea8c0c14ea19'),1
+DELETE,/wishlist/wishlist/04024f6d-3079-4fdd-8a4d-bf9027b6f0b5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/04024f6d-3079-4fdd-8a4d-bf9027b6f0b5'),1
+GET,/wishlist/wishlist/39baf9d2-ce5c-4040-9891-642b442dacc2,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/39baf9d2-ce5c-4040-9891-642b442dacc2'),1
+PUT,/wishlist/wishlist/0dc4927c-4993-4a6c-8016-b3ea259597fa,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0dc4927c-4993-4a6c-8016-b3ea259597fa'),1
+DELETE,/wishlist/wishlist/ac2721e8-35b2-43ea-9f81-f00451b8f606,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ac2721e8-35b2-43ea-9f81-f00451b8f606'),1
+DELETE,/wishlist/wishlist/fc810dcb-cd24-46e5-8384-5a3637372824,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/fc810dcb-cd24-46e5-8384-5a3637372824'),1
+GET,/wishlist/wishlist/5707e8d1-bef9-486f-9f61-b8b1d9af674e,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/5707e8d1-bef9-486f-9f61-b8b1d9af674e'),1
+DELETE,/wishlist/wishlist/76271503-ad86-4acb-a0aa-2c476bab8d8d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/76271503-ad86-4acb-a0aa-2c476bab8d8d'),1
+POST,/wishlist/wishlist/add,HTTPError('504 Server Error: Gateway Time-out for url: /wishlist/wishlist/add'),4
+DELETE,/wishlist/wishlist/7910928f-a1b2-4349-9696-548160a00859,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7910928f-a1b2-4349-9696-548160a00859'),2
+PUT,/wishlist/wishlist/9a8907a1-7ca1-4bea-aee7-e4631705bd2c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/9a8907a1-7ca1-4bea-aee7-e4631705bd2c'),1
+PUT,/wishlist/wishlist/b312da25-92d3-41c1-8ca2-091883020eaf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b312da25-92d3-41c1-8ca2-091883020eaf'),1
+GET,/wishlist/wishlist/4c50f36e-1025-4873-a924-627b93f78ef6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/4c50f36e-1025-4873-a924-627b93f78ef6'),1
+DELETE,/wishlist/wishlist/4be49536-df8c-48f1-93a8-5d6339bbf082,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/4be49536-df8c-48f1-93a8-5d6339bbf082'),1
+GET,/wishlist/wishlist/f44ac364-a856-49ee-ac74-3a42de7e6c61,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f44ac364-a856-49ee-ac74-3a42de7e6c61'),1
+DELETE,/wishlist/wishlist/bbdb93f6-2e4c-40d4-bdab-d6bfa70269a0,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/bbdb93f6-2e4c-40d4-bdab-d6bfa70269a0'),1
+GET,/wishlist/wishlist/67c3451e-ce85-4478-a20b-590cbddf08dc,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/67c3451e-ce85-4478-a20b-590cbddf08dc'),1
+DELETE,/wishlist/wishlist/3faec381-b896-4c31-be7f-8eafbf61e0c8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3faec381-b896-4c31-be7f-8eafbf61e0c8'),1
+GET,/wishlist/wishlist/7dc66e6b-9a61-4535-ae9c-ea8c0c14ea19,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/7dc66e6b-9a61-4535-ae9c-ea8c0c14ea19'),1
+DELETE,/wishlist/wishlist/7d4b64e5-6971-49e0-99e1-59417ec6d6ef,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7d4b64e5-6971-49e0-99e1-59417ec6d6ef'),1
+DELETE,/wishlist/wishlist/0c613b67-bc1d-47c5-a276-13f7970e4a49,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0c613b67-bc1d-47c5-a276-13f7970e4a49'),1
+DELETE,/wishlist/wishlist/f4a458cd-a088-4fa4-a5ee-2e69650add77,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f4a458cd-a088-4fa4-a5ee-2e69650add77'),1
+GET,/wishlist/wishlist/74d1dfbd-ec12-4ea3-919e-736b860e24e3,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/74d1dfbd-ec12-4ea3-919e-736b860e24e3'),1
+DELETE,/wishlist/wishlist/df3908ae-ba16-4599-834a-6ff6cebd6b28,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/df3908ae-ba16-4599-834a-6ff6cebd6b28'),1
+DELETE,/wishlist/wishlist/71286164-9e1d-4e94-8c62-76ea864d8569,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/71286164-9e1d-4e94-8c62-76ea864d8569'),1
+PUT,/wishlist/wishlist/56d22c22-3e07-4064-b6ba-56406c037786,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/56d22c22-3e07-4064-b6ba-56406c037786'),1
+GET,/wishlist/wishlist/6e0f5d00-ee95-4837-a5aa-5409889a7152,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/6e0f5d00-ee95-4837-a5aa-5409889a7152'),1
+DELETE,/wishlist/wishlist/b6e4d63c-82ef-42ac-b8f8-64e7db748da7,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b6e4d63c-82ef-42ac-b8f8-64e7db748da7'),1
+DELETE,/wishlist/wishlist/6b6718bc-d6d0-4e22-9849-d1c91e3cecc8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6b6718bc-d6d0-4e22-9849-d1c91e3cecc8'),1
+GET,/wishlist/wishlist/0eb47304-76fe-4d39-b1bb-c30c3884eb55,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/0eb47304-76fe-4d39-b1bb-c30c3884eb55'),1
+GET,/wishlist/wishlist/2bc2596a-189b-4844-9ef3-60e856445d8e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2bc2596a-189b-4844-9ef3-60e856445d8e'),1
+GET,/wishlist/wishlist/159f24ea-9745-4361-825e-b285e7514156,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/159f24ea-9745-4361-825e-b285e7514156'),1
+GET,/wishlist/wishlist/4a2fef8e-ef9d-4682-86b1-e551db89ddf6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/4a2fef8e-ef9d-4682-86b1-e551db89ddf6'),1
+GET,/wishlist/wishlist/c92c4760-5ae0-4c30-b603-f23d09e59f66,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c92c4760-5ae0-4c30-b603-f23d09e59f66'),1
+POST,/wishlist/wishlist/add,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/add'),88
+DELETE,/wishlist/wishlist/05f62748-6fee-4cab-a8e2-3fae897d1bb6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/05f62748-6fee-4cab-a8e2-3fae897d1bb6'),1
+GET,/wishlist/wishlist/f200a03a-beae-440e-b569-b4704c590c30,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f200a03a-beae-440e-b569-b4704c590c30'),1
+DELETE,/wishlist/wishlist/bd8e35c7-27ed-4a25-ba02-84f735b6b784,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/bd8e35c7-27ed-4a25-ba02-84f735b6b784'),1
+DELETE,/wishlist/wishlist/b8cbb9ac-a557-42ec-be87-5b90218812ae,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b8cbb9ac-a557-42ec-be87-5b90218812ae'),1
+GET,/wishlist/wishlist/b480adf2-dcef-4680-b619-5cae37b2210b,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b480adf2-dcef-4680-b619-5cae37b2210b'),1
+DELETE,/wishlist/wishlist/1f417913-87f0-404f-9a87-a14073318ca3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/1f417913-87f0-404f-9a87-a14073318ca3'),1
+GET,/wishlist/wishlist/cdef3793-07a2-475f-8ebe-3cd6b426f9b3,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/cdef3793-07a2-475f-8ebe-3cd6b426f9b3'),1
+DELETE,/wishlist/wishlist/746840e7-26a5-425e-a354-d54fc64f0797,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/746840e7-26a5-425e-a354-d54fc64f0797'),1
+DELETE,/wishlist/wishlist/4d084850-0da8-440b-a3ec-c70059e2f155,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/4d084850-0da8-440b-a3ec-c70059e2f155'),1
+PUT,/wishlist/wishlist/f62bb545-cb2e-4796-b288-db35d04661c3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f62bb545-cb2e-4796-b288-db35d04661c3'),1
+DELETE,/wishlist/wishlist/bbc80b5b-8028-46b8-918a-d6d0f6504745,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/bbc80b5b-8028-46b8-918a-d6d0f6504745'),1
+DELETE,/wishlist/wishlist/0a303275-5520-4ab6-9e77-c925c6ae9b1a,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0a303275-5520-4ab6-9e77-c925c6ae9b1a'),1
+DELETE,/wishlist/wishlist/903fe204-db5f-43bd-b6c2-e6b09b68ad12,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/903fe204-db5f-43bd-b6c2-e6b09b68ad12'),1
+DELETE,/wishlist/wishlist/65715136-24dd-4927-835a-4f2db5c84ec4,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/65715136-24dd-4927-835a-4f2db5c84ec4'),1
+DELETE,/wishlist/wishlist/4f57282a-50b5-4f64-b6dd-d24b222247ca,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/4f57282a-50b5-4f64-b6dd-d24b222247ca'),1
+DELETE,/wishlist/wishlist/40c4c22e-0e69-4dc0-ba57-ee7a813f7665,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/40c4c22e-0e69-4dc0-ba57-ee7a813f7665'),1
+PUT,/wishlist/wishlist/cc4588a7-a8fb-4ab3-9d6c-1138f8625596,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/cc4588a7-a8fb-4ab3-9d6c-1138f8625596'),1
+PUT,/wishlist/wishlist/a8eca452-8ac0-4e2a-982b-81c4dca35961,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a8eca452-8ac0-4e2a-982b-81c4dca35961'),1
+DELETE,/wishlist/wishlist/ffc2849e-0e07-4001-a0af-ee1350af853d,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ffc2849e-0e07-4001-a0af-ee1350af853d'),1
+DELETE,/wishlist/wishlist/3f6b8fa5-5405-4e77-b9a0-2188a27fcb01,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3f6b8fa5-5405-4e77-b9a0-2188a27fcb01'),1
+PUT,/wishlist/wishlist/5adc9cec-cce3-4aa1-8a8b-c236f7d14ada,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5adc9cec-cce3-4aa1-8a8b-c236f7d14ada'),1
+GET,/wishlist/wishlist/3f6b8fa5-5405-4e77-b9a0-2188a27fcb01,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/3f6b8fa5-5405-4e77-b9a0-2188a27fcb01'),1
+DELETE,/wishlist/wishlist/d7cf7a60-77d3-431d-b20f-a8a5939e3c7e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d7cf7a60-77d3-431d-b20f-a8a5939e3c7e'),1
+DELETE,/wishlist/wishlist/e170d3bd-612a-4a3d-aac6-664cdda63b8c,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/e170d3bd-612a-4a3d-aac6-664cdda63b8c'),1
+GET,/wishlist/wishlist/01713e94-85ee-48d5-88c7-e7792116acd6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/01713e94-85ee-48d5-88c7-e7792116acd6'),1
+PUT,/wishlist/wishlist/8604d5ad-e0b7-457d-94d8-4b98a6c93556,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8604d5ad-e0b7-457d-94d8-4b98a6c93556'),1
+DELETE,/wishlist/wishlist/e6f16200-6714-49a3-9ebf-aa8dfcc8412e,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/e6f16200-6714-49a3-9ebf-aa8dfcc8412e'),1
+DELETE,/wishlist/wishlist/6652d4d4-df56-43ea-ba90-33538fa80467,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6652d4d4-df56-43ea-ba90-33538fa80467'),1
+DELETE,/wishlist/wishlist/14cc17e4-4ac3-4df1-9bf2-43438f75b0fd,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/14cc17e4-4ac3-4df1-9bf2-43438f75b0fd'),1
+DELETE,/wishlist/wishlist/9976b365-efec-4a3c-b39f-a22e959a50a6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/9976b365-efec-4a3c-b39f-a22e959a50a6'),1
+DELETE,/wishlist/wishlist/3c2b5529-cbba-4099-a467-5508993519c5,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3c2b5529-cbba-4099-a467-5508993519c5'),1
+DELETE,/wishlist/wishlist/81598cbf-0a78-4e85-b8f4-a8deb70040af,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/81598cbf-0a78-4e85-b8f4-a8deb70040af'),1
+GET,/wishlist/wishlist/d2a5da50-bc3e-4ef4-9786-7feaca2e3cce,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d2a5da50-bc3e-4ef4-9786-7feaca2e3cce'),1
+DELETE,/wishlist/wishlist/38518e55-6dd8-4e07-8b03-55c95bc66b41,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/38518e55-6dd8-4e07-8b03-55c95bc66b41'),1
+GET,/wishlist/wishlist/be10bc85-62fb-4ab6-ab1a-e55f09b188c4,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/be10bc85-62fb-4ab6-ab1a-e55f09b188c4'),1
+DELETE,/wishlist/wishlist/7b1e359b-4142-4b4a-ad83-002184212c57,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/7b1e359b-4142-4b4a-ad83-002184212c57'),1
+GET,/wishlist/wishlist/008e6cda-ed28-4014-8022-16e61fb5eb8b,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/008e6cda-ed28-4014-8022-16e61fb5eb8b'),1
+GET,/wishlist/wishlist/df3908ae-ba16-4599-834a-6ff6cebd6b28,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/df3908ae-ba16-4599-834a-6ff6cebd6b28'),1
+PUT,/wishlist/wishlist/5707e8d1-bef9-486f-9f61-b8b1d9af674e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5707e8d1-bef9-486f-9f61-b8b1d9af674e'),1
+GET,/wishlist/wishlist/946e3b84-33ad-4aa5-8d28-ca40eeb76e23,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/946e3b84-33ad-4aa5-8d28-ca40eeb76e23'),1
+GET,/wishlist/wishlist/a96d66f4-0d21-404b-89cd-d0c2e92cfb01,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/a96d66f4-0d21-404b-89cd-d0c2e92cfb01'),1
+DELETE,/wishlist/wishlist/a38ac28e-50c3-4876-8a3e-775515090389,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/a38ac28e-50c3-4876-8a3e-775515090389'),1
+DELETE,/wishlist/wishlist/905f7c06-968f-4b31-888c-29675728f455,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/905f7c06-968f-4b31-888c-29675728f455'),1
+DELETE,/wishlist/wishlist/984bd48b-aa71-4d73-a6d2-14ef6890cda0,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/984bd48b-aa71-4d73-a6d2-14ef6890cda0'),1
+DELETE,/wishlist/wishlist/de1f86db-8315-4d73-a358-5badeeb00a2a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/de1f86db-8315-4d73-a358-5badeeb00a2a'),1
+GET,/wishlist/wishlist/fb45719b-3e5a-41dc-b40a-f45e6b887981,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/fb45719b-3e5a-41dc-b40a-f45e6b887981'),1
+GET,/wishlist/wishlist/f209e989-d7ce-420b-86af-464f22800ecf,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f209e989-d7ce-420b-86af-464f22800ecf'),1
+PUT,/wishlist/wishlist/5858b5a8-5c2f-424b-b588-9f9c470d231f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5858b5a8-5c2f-424b-b588-9f9c470d231f'),1
+DELETE,/wishlist/wishlist/642ac2c2-9e72-4ad8-9150-6fba2a1d952f,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/642ac2c2-9e72-4ad8-9150-6fba2a1d952f'),1
+GET,/wishlist/wishlist/20bedb3f-83d3-49b7-8330-cdd44c2eb947,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/20bedb3f-83d3-49b7-8330-cdd44c2eb947'),1
+GET,/wishlist/wishlist/aa79d4ff-d957-48da-abf4-c9ee1e20e6d3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/aa79d4ff-d957-48da-abf4-c9ee1e20e6d3'),1
+DELETE,/wishlist/wishlist/841d412c-2f82-45af-923c-3414730622b3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/841d412c-2f82-45af-923c-3414730622b3'),1
+DELETE,/wishlist/wishlist/205389d4-f3b6-4f98-871a-ead58d4f5dbe,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/205389d4-f3b6-4f98-871a-ead58d4f5dbe'),1
+GET,/wishlist/wishlist/fc37511c-79af-4388-9f6d-707eb7185894,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/fc37511c-79af-4388-9f6d-707eb7185894'),1
+PUT,/wishlist/wishlist/1b82c0e5-d9aa-4de4-a69b-411ed6db9311,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1b82c0e5-d9aa-4de4-a69b-411ed6db9311'),1
+PUT,/wishlist/wishlist/1c145299-afc6-4bc4-b4c7-85beee4cfc41,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1c145299-afc6-4bc4-b4c7-85beee4cfc41'),1
+GET,/wishlist/wishlist/26425d13-55cb-4157-829d-2e5ee271c4a2,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/26425d13-55cb-4157-829d-2e5ee271c4a2'),1
+DELETE,/wishlist/wishlist/0d61ec6a-5e85-4e3d-8bec-a5d48555979e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0d61ec6a-5e85-4e3d-8bec-a5d48555979e'),1
+DELETE,/wishlist/wishlist/d74b8d9f-5f9f-41f3-88ef-64f743926b9d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d74b8d9f-5f9f-41f3-88ef-64f743926b9d'),1
+PUT,/wishlist/wishlist/b36d44b4-52ef-4757-b673-092c69f4042a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/b36d44b4-52ef-4757-b673-092c69f4042a'),1
+DELETE,/wishlist/wishlist/9b3d691e-c038-47ab-926b-af673f363f5e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/9b3d691e-c038-47ab-926b-af673f363f5e'),1
+GET,/wishlist/wishlist/e170d3bd-612a-4a3d-aac6-664cdda63b8c,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/e170d3bd-612a-4a3d-aac6-664cdda63b8c'),1
+PUT,/wishlist/wishlist/6d17fb48-7778-4ee7-a26d-9fb6f206b4d4,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6d17fb48-7778-4ee7-a26d-9fb6f206b4d4'),1
+GET,/wishlist/wishlist/17c5bc0e-7160-40ec-964a-da8c5285483b,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/17c5bc0e-7160-40ec-964a-da8c5285483b'),1
+DELETE,/wishlist/wishlist/remove,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/remove'),77
+GET,/wishlist/wishlist/cfec412b-3fb0-45a8-b48e-f1e57fd2d35c,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/cfec412b-3fb0-45a8-b48e-f1e57fd2d35c'),1
+GET,/wishlist/wishlist/f78e7614-7587-409f-9815-3d4d04a51bb6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f78e7614-7587-409f-9815-3d4d04a51bb6'),1
+DELETE,/wishlist/wishlist/6d5bd1c9-a7a1-4318-876a-a0f3e929a9c0,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6d5bd1c9-a7a1-4318-876a-a0f3e929a9c0'),1
+GET,/wishlist/wishlist/3e23e149-5b83-43b6-894b-de221b110311,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/3e23e149-5b83-43b6-894b-de221b110311'),1
+DELETE,/wishlist/wishlist/1338ae71-e2c4-4887-a1f2-5b2e1a5a6ad3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/1338ae71-e2c4-4887-a1f2-5b2e1a5a6ad3'),1
+DELETE,/wishlist/wishlist/e3e43e2d-aac7-4f75-9430-39e779c5de98,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e3e43e2d-aac7-4f75-9430-39e779c5de98'),1
+DELETE,/wishlist/wishlist/d14b19b6-c868-4590-8291-dcd721508251,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/d14b19b6-c868-4590-8291-dcd721508251'),1
+DELETE,/wishlist/wishlist/ea1fbbc1-d43f-4361-ae57-edef1534aed3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/ea1fbbc1-d43f-4361-ae57-edef1534aed3'),1
+PUT,/wishlist/wishlist/681f13f8-5457-4b91-9ad1-f4007e6c5e4d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/681f13f8-5457-4b91-9ad1-f4007e6c5e4d'),1
+DELETE,/wishlist/wishlist/f167b63b-d9a9-4cf3-a626-e4369379e9fe,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/f167b63b-d9a9-4cf3-a626-e4369379e9fe'),1
+GET,/wishlist/wishlist/3c84f503-1d76-4bae-811f-0f32a70ac304,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3c84f503-1d76-4bae-811f-0f32a70ac304'),1
+POST,/auth/user/register,HTTPError('500 Server Error: Internal Server Error for url: /auth/user/register'),70
+GET,/wishlist/wishlist/ea826f94-f5c1-4884-a35b-1646105c0699,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/ea826f94-f5c1-4884-a35b-1646105c0699'),1
+DELETE,/wishlist/wishlist/abd93a5c-4353-4e11-965b-178eac7173b7,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/abd93a5c-4353-4e11-965b-178eac7173b7'),1
+DELETE,/wishlist/wishlist/989b9772-d157-46ea-9ed8-161e91da469d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/989b9772-d157-46ea-9ed8-161e91da469d'),1
+GET,/wishlist/wishlist/f7ce8742-3b54-47f5-b53c-1206c7becdaf,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/f7ce8742-3b54-47f5-b53c-1206c7becdaf'),1
+GET,/wishlist/wishlist/98c3a8dc-ad69-4d45-9d1f-ca85f82daba6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/98c3a8dc-ad69-4d45-9d1f-ca85f82daba6'),1
+DELETE,/wishlist/wishlist/0a02953a-b4b7-4e2a-b723-cd028f44898a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0a02953a-b4b7-4e2a-b723-cd028f44898a'),1
+DELETE,/wishlist/wishlist/db1bace3-13ca-4627-96f1-cb2ca62f09eb,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/db1bace3-13ca-4627-96f1-cb2ca62f09eb'),1
+GET,/wishlist/wishlist/16c23996-0690-4107-bc78-854254cc2d60,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/16c23996-0690-4107-bc78-854254cc2d60'),1
+DELETE,/wishlist/wishlist/606f2833-60b6-424d-8491-af5234c9c559,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/606f2833-60b6-424d-8491-af5234c9c559'),1
+DELETE,/wishlist/wishlist/1b7266f0-c7d2-4b0b-ab2e-1ad8dbd1c529,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1b7266f0-c7d2-4b0b-ab2e-1ad8dbd1c529'),1
+GET,/wishlist/wishlist/561e23d5-bd6f-403a-91e1-22065da7d23d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/561e23d5-bd6f-403a-91e1-22065da7d23d'),1
+DELETE,/wishlist/wishlist/c72d9c4d-1c6f-489b-a78c-31e2b180658d,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c72d9c4d-1c6f-489b-a78c-31e2b180658d'),1
+DELETE,/wishlist/wishlist/5c23a342-b3df-4390-a274-6b553cea67b6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/5c23a342-b3df-4390-a274-6b553cea67b6'),1
+POST,/auth/user/register,HTTPError('502 Server Error: Bad Gateway for url: /auth/user/register'),49
+DELETE,/wishlist/wishlist/a21520eb-cb1e-4ab8-b7b0-78f15a454edb,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a21520eb-cb1e-4ab8-b7b0-78f15a454edb'),1
+DELETE,/wishlist/wishlist/2b1f70b5-f747-418d-b40d-67667b74057c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2b1f70b5-f747-418d-b40d-67667b74057c'),1
+DELETE,/wishlist/wishlist/56485e90-1493-411b-9a69-82037440c123,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/56485e90-1493-411b-9a69-82037440c123'),1
+GET,/wishlist/wishlist/6641e674-6514-45f2-b8bd-bca88ea6287a,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/6641e674-6514-45f2-b8bd-bca88ea6287a'),1
+PUT,/wishlist/wishlist/d99f6aa7-6320-4260-b50d-234d108eb1b7,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d99f6aa7-6320-4260-b50d-234d108eb1b7'),1
+GET,/wishlist/wishlist/e6465301-c6db-4cd7-a640-6316aeca0dd3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e6465301-c6db-4cd7-a640-6316aeca0dd3'),1
+DELETE,/wishlist/wishlist/ec066a53-112b-4fad-8a27-b6c34f53d237,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ec066a53-112b-4fad-8a27-b6c34f53d237'),1
+DELETE,/wishlist/wishlist/2ffe12dd-7e80-4291-98b0-0bfba67bf71e,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/2ffe12dd-7e80-4291-98b0-0bfba67bf71e'),1
+GET,/wishlist/wishlist/fc810dcb-cd24-46e5-8384-5a3637372824,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/fc810dcb-cd24-46e5-8384-5a3637372824'),1
+DELETE,/wishlist/wishlist/6a150b0e-6f44-4bf0-a17b-bce987c35066,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6a150b0e-6f44-4bf0-a17b-bce987c35066'),1
+GET,/wishlist/wishlist/d398f502-c906-4d26-bb18-06a219624cc0,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d398f502-c906-4d26-bb18-06a219624cc0'),1
+GET,/wishlist/wishlist/205389d4-f3b6-4f98-871a-ead58d4f5dbe,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/205389d4-f3b6-4f98-871a-ead58d4f5dbe'),1
+DELETE,/wishlist/wishlist/50a50c18-c34c-4a0c-9dbe-2efb4207cc0c,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/50a50c18-c34c-4a0c-9dbe-2efb4207cc0c'),1
+GET,/wishlist/wishlist/cb7da29b-a52f-48d8-b189-9464356e999d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/cb7da29b-a52f-48d8-b189-9464356e999d'),1
+DELETE,/wishlist/wishlist/14bc1cdb-ce8c-4b3b-aa05-3f90e776ec14,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/14bc1cdb-ce8c-4b3b-aa05-3f90e776ec14'),1
+DELETE,/wishlist/wishlist/925a4ac7-31c7-4f63-aad8-1a4f4ceacb02,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/925a4ac7-31c7-4f63-aad8-1a4f4ceacb02'),1
+GET,/wishlist/wishlist/aea8ab73-0292-425f-9cec-1b2b5e5443e5,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/aea8ab73-0292-425f-9cec-1b2b5e5443e5'),1
+GET,/wishlist/wishlist/1962fd2b-d6ea-41c9-9d78-fdf79ff4eff6,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/1962fd2b-d6ea-41c9-9d78-fdf79ff4eff6'),1
+DELETE,/wishlist/wishlist/0742a21b-0c2c-4c1e-a9b3-f1f64fac1836,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/0742a21b-0c2c-4c1e-a9b3-f1f64fac1836'),1
+GET,/wishlist/wishlist/605f3be2-5eb8-4d09-a1b0-15439bdb740a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/605f3be2-5eb8-4d09-a1b0-15439bdb740a'),1
+GET,/wishlist/wishlist/1fe399f0-1911-4bf3-9945-db73d1a1dbad,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1fe399f0-1911-4bf3-9945-db73d1a1dbad'),1
+GET,/wishlist/wishlist/3ff9bb3e-901c-44f3-af44-d8524c6fc31a,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3ff9bb3e-901c-44f3-af44-d8524c6fc31a'),1
+GET,/wishlist/wishlist/76f84785-e258-44bb-ac6d-acd6c642efe2,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/76f84785-e258-44bb-ac6d-acd6c642efe2'),1
+GET,/wishlist/wishlist/7b20d210-658d-4af5-9e4c-adab2694d813,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/7b20d210-658d-4af5-9e4c-adab2694d813'),1
+GET,/wishlist/wishlist/c279c8e5-9e24-4c61-8ff8-b5e5ce507627,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c279c8e5-9e24-4c61-8ff8-b5e5ce507627'),1
+GET,/wishlist/wishlist/1338ae71-e2c4-4887-a1f2-5b2e1a5a6ad3,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/1338ae71-e2c4-4887-a1f2-5b2e1a5a6ad3'),1
+GET,/wishlist/wishlist/68a4ebd5-3cfc-4ab8-abfa-7495c5487d94,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/68a4ebd5-3cfc-4ab8-abfa-7495c5487d94'),1
+PUT,/wishlist/wishlist/99ccfe91-e80d-479b-a40f-2ccdb1285e45,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/99ccfe91-e80d-479b-a40f-2ccdb1285e45'),1
+DELETE,/wishlist/wishlist/37d2ca77-944b-4afe-a490-377c0daf8788,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/37d2ca77-944b-4afe-a490-377c0daf8788'),1
+DELETE,/wishlist/wishlist/6d7e4036-3e63-401a-9af3-30072f01e56b,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6d7e4036-3e63-401a-9af3-30072f01e56b'),1
+DELETE,/wishlist/wishlist/8eeec38b-ad99-4d44-96f6-d774e10f8ac6,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/8eeec38b-ad99-4d44-96f6-d774e10f8ac6'),1
+GET,/wishlist/wishlist/43ded60d-e06a-4a81-8460-5e1b27d9b5d7,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/43ded60d-e06a-4a81-8460-5e1b27d9b5d7'),1
+DELETE,/wishlist/wishlist/ed3d0e6e-25fb-4cab-bf44-452cf4b9d1ee,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ed3d0e6e-25fb-4cab-bf44-452cf4b9d1ee'),1
+DELETE,/wishlist/wishlist/2741207b-96f6-4b57-83b3-aa686fc8a723,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2741207b-96f6-4b57-83b3-aa686fc8a723'),1
+GET,/wishlist/wishlist/d85f873b-e9e1-4b5f-b309-b356c070da94,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/d85f873b-e9e1-4b5f-b309-b356c070da94'),1
+DELETE,/wishlist/wishlist/cedcc6d5-cfca-4879-9001-d5231ef01de4,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/cedcc6d5-cfca-4879-9001-d5231ef01de4'),1
+POST,/wishlist/wishlist,HTTPError('504 Server Error: Gateway Time-out for url: /wishlist/wishlist'),5
+DELETE,/wishlist/wishlist/1eafa163-1be8-4bef-8a11-e7b6905aa5a1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/1eafa163-1be8-4bef-8a11-e7b6905aa5a1'),1
+GET,/wishlist/wishlist/22fb214c-d19f-4111-80ce-cf0943b84b37,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/22fb214c-d19f-4111-80ce-cf0943b84b37'),1
+GET,/wishlist/wishlist/a8bac028-bfd8-4694-84aa-b9f18b9666b5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a8bac028-bfd8-4694-84aa-b9f18b9666b5'),1
+DELETE,/wishlist/wishlist/5e645f25-2a40-448f-83fc-19e889f0c5ed,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5e645f25-2a40-448f-83fc-19e889f0c5ed'),1
+DELETE,/wishlist/wishlist/8f201ed0-6d55-4853-8242-bda75892c7d0,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/8f201ed0-6d55-4853-8242-bda75892c7d0'),1
+PUT,/wishlist/wishlist/293ac0f7-a56e-4446-b1e9-0e6b8946340e,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/293ac0f7-a56e-4446-b1e9-0e6b8946340e'),1
+PUT,/wishlist/wishlist/97c46270-4e63-4624-b405-38371cc17756,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/97c46270-4e63-4624-b405-38371cc17756'),1
+GET,/wishlist/wishlist/440b0c33-9f6b-4053-a71a-eafe61e1618e,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/440b0c33-9f6b-4053-a71a-eafe61e1618e'),1
+DELETE,/wishlist/wishlist/628a15c7-8072-40fe-b666-bcd01888cfe5,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/628a15c7-8072-40fe-b666-bcd01888cfe5'),1
+DELETE,/wishlist/wishlist/c457f81b-9b1a-4539-9c6e-b68adbe3920b,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/c457f81b-9b1a-4539-9c6e-b68adbe3920b'),1
+GET,/wishlist/wishlist/f8abae29-3d72-4491-ab90-698794049b12,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f8abae29-3d72-4491-ab90-698794049b12'),1
+DELETE,/wishlist/wishlist/0e612873-97bf-4434-ac4f-67dfdf099066,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0e612873-97bf-4434-ac4f-67dfdf099066'),2
+DELETE,/wishlist/wishlist/0954731b-0b85-4ee1-aa76-985419f2a245,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/0954731b-0b85-4ee1-aa76-985419f2a245'),1
+DELETE,/wishlist/wishlist/8d9f7f34-31c1-4dfb-8e6d-1ce268211586,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/8d9f7f34-31c1-4dfb-8e6d-1ce268211586'),1
+GET,/wishlist/wishlist/5e3ecd92-3aa2-4d9c-9193-b7b62f5b1203,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/5e3ecd92-3aa2-4d9c-9193-b7b62f5b1203'),1
+DELETE,/wishlist/wishlist/d8b20169-bb83-4978-893d-c091cec654b2,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/d8b20169-bb83-4978-893d-c091cec654b2'),1
+DELETE,/wishlist/wishlist/427966a7-696e-40e0-a460-ed1ec27cfe47,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/427966a7-696e-40e0-a460-ed1ec27cfe47'),1
+DELETE,/wishlist/wishlist/d7ecd8b1-3b2b-44a7-97e5-2a475bdf6eaa,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d7ecd8b1-3b2b-44a7-97e5-2a475bdf6eaa'),1
+PUT,/wishlist/wishlist/2ab8f6c8-3ed2-4100-97af-1a1b69b7e640,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2ab8f6c8-3ed2-4100-97af-1a1b69b7e640'),1
+GET,/wishlist/wishlist/212c4506-f724-4fd2-99a9-f925dd2ae922,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/212c4506-f724-4fd2-99a9-f925dd2ae922'),1
+GET,/wishlist/wishlist/3c2b5529-cbba-4099-a467-5508993519c5,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/3c2b5529-cbba-4099-a467-5508993519c5'),1
+GET,/wishlist/wishlist/fb37a892-c33a-4e9c-b0f0-5c8cf12d9740,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/fb37a892-c33a-4e9c-b0f0-5c8cf12d9740'),1
+DELETE,/wishlist/wishlist/b5c78c2b-0820-49c1-ac48-64ab136d39ea,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/b5c78c2b-0820-49c1-ac48-64ab136d39ea'),1
+DELETE,/wishlist/wishlist/a8191af8-0280-40df-9a9d-57ced8e9b4be,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/a8191af8-0280-40df-9a9d-57ced8e9b4be'),1
+DELETE,/wishlist/wishlist/68ef23f6-5059-477c-9cc3-c76441b6108c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/68ef23f6-5059-477c-9cc3-c76441b6108c'),1
+DELETE,/wishlist/wishlist/aa79d4ff-d957-48da-abf4-c9ee1e20e6d3,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/aa79d4ff-d957-48da-abf4-c9ee1e20e6d3'),1
+PUT,/wishlist/wishlist/de9f77c8-4fbb-48bc-8602-7ca84ba49d7c,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/de9f77c8-4fbb-48bc-8602-7ca84ba49d7c'),1
+GET,/wishlist/wishlist/4edb44fc-a234-41d6-8f7e-838a4f6b1e8d,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/4edb44fc-a234-41d6-8f7e-838a4f6b1e8d'),1
+GET,/wishlist/wishlist/c2dc5b45-7866-4da1-b088-8e53d0d66e84,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/c2dc5b45-7866-4da1-b088-8e53d0d66e84'),1
+GET,/wishlist/wishlist/e7690587-49b5-4843-9854-0520babcc6dd,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/e7690587-49b5-4843-9854-0520babcc6dd'),1
+PUT,/wishlist/wishlist/5fc1e291-4fbe-4843-8599-3af8ea3a5c1f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5fc1e291-4fbe-4843-8599-3af8ea3a5c1f'),1
+PUT,/wishlist/wishlist/d409cf33-d1a7-4dc0-a893-0958db6d7ee6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/d409cf33-d1a7-4dc0-a893-0958db6d7ee6'),1
+DELETE,/wishlist/wishlist/ce5013d9-f742-407d-8f4f-c85e5d3dc653,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/ce5013d9-f742-407d-8f4f-c85e5d3dc653'),1
+DELETE,/wishlist/wishlist/52e6bacd-8d44-45e8-bbad-798c84f9a661,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/52e6bacd-8d44-45e8-bbad-798c84f9a661'),1
+GET,/wishlist/wishlist/3013cda3-6a43-4c2f-89c6-088dc0e1bde3,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/3013cda3-6a43-4c2f-89c6-088dc0e1bde3'),1
+PUT,/wishlist/wishlist/5928659e-2dfc-457d-a6b5-6c8b3fbdabd1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/5928659e-2dfc-457d-a6b5-6c8b3fbdabd1'),1
+PUT,/wishlist/wishlist/bfeac603-1e9e-4ad1-adec-2cfdc47e95d6,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/bfeac603-1e9e-4ad1-adec-2cfdc47e95d6'),1
+PUT,/wishlist/wishlist/6c4bfc39-ebb6-48ca-8371-e9bc048ad7d1,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/6c4bfc39-ebb6-48ca-8371-e9bc048ad7d1'),1
+GET,/wishlist/wishlist/26101a9f-b642-4b38-b6f9-91f4819c2529,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/26101a9f-b642-4b38-b6f9-91f4819c2529'),1
+DELETE,/wishlist/wishlist/03719656-caef-4e11-94e5-e5c223a49b4d,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/03719656-caef-4e11-94e5-e5c223a49b4d'),1
+DELETE,/wishlist/wishlist/117dc7fd-e2c4-4eb4-b10b-19855906baab,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/117dc7fd-e2c4-4eb4-b10b-19855906baab'),1
+GET,/wishlist/wishlist/359a3224-4a6e-4fdc-bb80-35fb8af3f621,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/359a3224-4a6e-4fdc-bb80-35fb8af3f621'),1
+DELETE,/wishlist/wishlist/aea02717-11a8-4db0-b73d-7d2142b119e7,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/aea02717-11a8-4db0-b73d-7d2142b119e7'),1
+DELETE,/wishlist/wishlist/3e23e149-5b83-43b6-894b-de221b110311,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3e23e149-5b83-43b6-894b-de221b110311'),1
+DELETE,/wishlist/wishlist/bddde135-da6f-4b01-84b5-ba9b3b1898ab,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/bddde135-da6f-4b01-84b5-ba9b3b1898ab'),1
+PUT,/wishlist/wishlist/f46e3814-1e95-40fd-8b40-d598b3e7a24f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f46e3814-1e95-40fd-8b40-d598b3e7a24f'),1
+DELETE,/wishlist/wishlist/f6db3277-693f-47ac-9ed8-0e6aab5a734d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/f6db3277-693f-47ac-9ed8-0e6aab5a734d'),1
+PUT,/wishlist/wishlist/325cc0f1-8cb6-4508-bda8-b1d34a91540d,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/325cc0f1-8cb6-4508-bda8-b1d34a91540d'),1
+POST,/auth/user/login,HTTPError('502 Server Error: Bad Gateway for url: /auth/user/login'),41
+DELETE,/wishlist/wishlist/remove,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/remove'),128
+DELETE,/wishlist/wishlist/2676fcf2-907a-43ab-acfe-132ccf535da3,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/2676fcf2-907a-43ab-acfe-132ccf535da3'),1
+PUT,/wishlist/wishlist/277550dd-444a-46a8-961c-58294ad0243f,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/277550dd-444a-46a8-961c-58294ad0243f'),1
+GET,/wishlist/wishlist/8be1d887-c69d-4c67-8a69-c82dda7fc3c8,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist/8be1d887-c69d-4c67-8a69-c82dda7fc3c8'),1
+DELETE,/wishlist/wishlist/3a7b72ec-0e9b-4c89-95c1-fa78f1f6902b,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/3a7b72ec-0e9b-4c89-95c1-fa78f1f6902b'),1
+DELETE,/wishlist/wishlist/6e53a791-12ba-4acc-b433-74e8c0db2b9d,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/6e53a791-12ba-4acc-b433-74e8c0db2b9d'),1
+DELETE,/wishlist/wishlist/975d0302-6814-4b3c-9e12-594877d31c54,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/975d0302-6814-4b3c-9e12-594877d31c54'),1
+POST,/wishlist/wishlist,HTTPError('401 Client Error: Unauthorized for url: /wishlist/wishlist'),88
+DELETE,/wishlist/wishlist/45368d89-312d-4525-9675-9bf919bb3db0,HTTPError('500 Server Error: Internal Server Error for url: /wishlist/wishlist/45368d89-312d-4525-9675-9bf919bb3db0'),1
+GET,/wishlist/wishlist/a348e35d-0ae3-44fa-99c2-709215aff3a5,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/a348e35d-0ae3-44fa-99c2-709215aff3a5'),1
+GET,/wishlist/wishlist/6586c857-cee2-4c5c-a7cf-72d2006d5b1f,HTTPError('404 Client Error: Not Found for url: /wishlist/wishlist/6586c857-cee2-4c5c-a7cf-72d2006d5b1f'),1
