@@ -1,0 +1,76 @@
+Count,Message,Traceback,Nodes
+243,Expecting value: line 1 column 1 (char 0),"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 39, in before_start
+    self.product = response.json()['products'][0]
+                   ^^^^^^^^^^^^^^^
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/requests/models.py"", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+99,Failed to get all of my wishlist,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 59, in get_all_of_my_wishlist
+    raise Exception(""Failed to get all of my wishlist"")
+",local
+89,Failed to add product to wishlist,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 76, in add_product_to_wishlist
+    raise Exception(""Failed to add product to wishlist"")
+",local
+125,Failed to get wishlist by ID,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 86, in get_wishlist_detail_by_id
+    raise Exception(""Failed to get wishlist by ID"")
+",local
+167,Failed to create new wishlist,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 50, in create_wishlist
+    raise Exception(""Failed to create new wishlist"")
+",local
+100,Failed to delete product from wishlist,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 113, in delete_product_from_wishlist
+    raise Exception(""Failed to delete product from wishlist"")
+",local
+110,Failed to delete wishlist,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 123, in delete_wishlist
+    raise Exception(""Failed to delete wishlist"")
+",local
+22,Failed to update wishlist,"  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 340, in run
+    self.execute_next_task()
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/locust/user/task.py"", line 385, in execute_task
+    task(self)
+  File ""./wishlist/wishlist_locustfile.py"", line 100, in update_wishlist
+    raise Exception(""Failed to update wishlist"")
+",local
